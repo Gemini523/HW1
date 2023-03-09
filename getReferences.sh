@@ -14,3 +14,5 @@ fastq-dump -O ../inputs/ SRR8985047
 fastq-dump -O ../inputs/ SRR8985048
 fastq-dump -O ../inputs/ SRR8985051
 fastq-dump -O ../inputs/ SRR8985052
+
+#Calculate the number of protein-coding genes in your genome.
