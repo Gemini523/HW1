@@ -26,25 +26,3 @@ for file_name in file_names:
     for record in SeqIO.parse(file_name, "fastq"):
         count += 1
     print("Number of reads in {}: {}".format(file_name, count))
-
-
-#Calculate the number of protein-coding genes in your genome.
-from Bio.SeqFeature import FeatureLocation
-
-# specify the path to the gzipped genome annotation file
-gff_file = "gencode.vM9.annotation.gff3.gz"
-
-protein_coding_genes = 0
-
-# parse the gzipped genome annotation file
-with gzip.open(gff_file, "rt") as handle:
-
-    for record in SeqIO.parse(handle, "gff3"):
-        for feature in record.features:
-            if feature.type == "gene" and "protein_coding" in feature.qualifiers.get("biotype", []):
-                protein_coding_genes += 1
-
-print(f"Total protein-coding genes: {protein_coding_genes}")
-
-
-
