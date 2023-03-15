@@ -1,5 +1,5 @@
 #!/bin/sh
-#Mus Musculus mm9
+#Mus Musculus mm10
 
 #download transcriptome FASTA
 wget -O ../references/gencode.vM9.pc_transcripts.fa.gz https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_mouse/release_M9/gencode.vM9.pc_transcripts.fa.gz
