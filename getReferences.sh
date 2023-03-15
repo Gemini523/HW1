@@ -17,3 +17,4 @@ fastq-dump --split-files -O ../inputs/ SRR8985052
 
 #Calculate the number of protein-coding genes in your genome.
 cd /home/bioinformatikai/HW1/references/
+gunzip -c mm9.gtf.gz | grep -w "gene" | grep -w "protein_coding" | wc -l
