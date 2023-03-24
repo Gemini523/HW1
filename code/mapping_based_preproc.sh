@@ -1,4 +1,5 @@
 #!/bin/bash
+#BST HW part 2
 
 # Reference genome preparation
 REF_GENOME="/home/bioinformatikai/HW1/references/GRCm38.p4.genome.fa"
