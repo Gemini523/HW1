@@ -1,0 +1,2981 @@
+# GeneMark.hmm-2 LST format
+# GeneMark.hmm-2 prokaryotic version: 1.25
+# File with sequence: seq.fna
+# File with native parameters: GMS2.mod
+# Native species name and build: unspecified GeneMarkS-2-1.14_1.25
+# File with MetaGeneMark parameters: /home/genemark/bin/gms2/mgm_11.mod
+# translation table: 11
+# output date start: Wed May 31 05:19:54 2023
+
+# sequence-region 1 1868012
+SequenceID: CP015498.1_RagTag
+     1   +    225    1592    1368 atypical TGGGGG 8 1
+     2   +    1757    2887    1131 native AGGAGG 6 1
+     3   +    3114    3338     225 atypical AAGAGT 7 1
+     4   +    3338    4465    1128 atypical GGCGGG 7 1
+     5   +    4466    6430    1965 native AGAAGG 8 1
+     6   +    6441    8924    2484 native AGGAGA 6 1
+     7   +    9143    9439     297 native AGGAGG 10 1
+     8   +    9485    10003     519 native GGAAGG 8 1
+     9   +    10032    10268     237 native GAAAGG 10 1
+    10   +    10759    10986     228 native AAATGG 5 1
+    11   +    11125    13146    2022 native GGAAGG 6 1
+    12   +    13158    13613     456 native AGGAGA 5 1
+    13   +    13644    15038    1395 native AAGTGG 9 1
+    14   +    15274    16203     930 native CGGAGG 13 1
+    15   +    16294    17223     930 native AGGAGA 6 1
+    16   +    17342    18220     879 native AAAAGG 8 1
+    17   +    18416    18643     228 native GGAAGG 9 1
+    18   +    19003    19434     432 native GGGAAG 5 1
+    19   +    19956    20126     171 native AGGAGT 7 1
+    20   +    20258    20437     180 native TAAAGG 7 1
+    21   -    20499    21728    1230 native GAAAGG 8 1
+    22   -    21812    22516     705 native AGGAGT 6 1
+    23   +    23471    23779     309 atypical TAGACG 13 1
+    24   +    23997    24227     231 atypical AGGAAA 7 1
+    25   +    24578    25012     435 native AAGGGC 5 1
+    26   +    25002    25196     195 native TGGTGA 5 1
+    27   +    25260    26459    1200 native AGAAGG 7 1
+    28   -    26874    28160    1287 native AGGAGG 8 1
+    29   -    28417    28770     354 native GGGATG 7 1
+    30   -    28767    28967     201 native AAAAGG 7 1
+    31   +    29135    29773     639 atypical AGGAAA 5 1
+    32   +    29770    30528     759 atypical GGAAGG 8 1
+    33   +    30828    31208     381 native AGGAAG 14 1
+    34   +    31162    31557     396 native AAGGGG 7 1
+    35   +    31550    32809    1260 native GGGAGA 5 1
+    36   +    32870    33394     525 atypical AAGATG 5 1
+    37   +    33498    34790    1293 atypical AGTAGG 7 1
+    38   +    34870    35685     816 native AGGAGG 7 1
+    39   -    35844   >35969     126 native
+    40   +   <36072    36917     846 native
+    41   +    37060    37605     546 native TTGAGG 14 1
+    42   +    37810    39195    1386 native ATGAGG 9 1
+    43   +    39292    40065     774 native AAGAGA 6 1
+    44   -    40104    40664     561 atypical CGGAGG 9 1
+    45   -    40665    41189     525 native AGGTGA 6 1
+    46   -    41191    41583     393 native CGGAGG 5 1
+    47   -    41601    43835    2235 native AGGAGT 8 1
+    48   +    44090    45124    1035 native ACGAGG 7 1
+    49   +    45121    45693     573 native AGAAAG 10 1
+    50   -    46111    46449     339 native TAGAGG 8 1
+    51   -    46707    47468     762 native AGGTGT 9 1
+    52   -    47465    48361     897 native GGAAGA 8 1
+    53   -    48358    49350     993 native TTGAGG 8 1
+    54   +    49689    50396     708 native GAAAGG 10 1
+    55   +    50513    51919    1407 native TTGATG 5 1
+    56   +    52045    52866     822 native GAAAGG 9 1
+    57   +    52980    53216     237 atypical AAACTG 8 1
+    58   +    53301    53585     285 native AGGAGC 6 1
+    59   -    53644    54657    1014 native CGGAGG 8 1
+    60   +    54784    55626     843 native AAGAGG 9 1
+    61   +    55975    56802     828 native AAGGGG 7 1
+    62   +    56858    57112     255 native AGGGGT 9 1
+    63   +    57121    58296    1176 native GGGTGA 8 1
+    64   +    58363    61194    2832 native ATGAGG 7 1
+    65   -    61234    62244    1011 native CAGAAG 4 1
+    66   +    62540    62953     414 atypical GGAAGG 8 1
+    67   -    63718    64032     315 atypical CGGAAG 14 1
+    68   -    63989    64633     645 native AGAAGG 7 1
+    69   -    64761    65390     630 atypical TGAAGT 8 1
+    70   +   <65656    65757     102 native
+    71   -    66084    66953     870 native GAGAGG 10 1
+    72   -    66950    67897     948 native AGGAAA 6 1
+    73   -    67909    68865     957 native TGGAGG 6 1
+    74   -    68884    69720     837 native AGGAGA 4 1
+    75   -    69822    70580     759 atypical CGGAGG 7 1
+    76   +    70739    70957     219 native AGGAGA 8 1
+    77   -    71043    71774     732 atypical ATGAGG 9 1
+    78   -    72304    72525     222 native AGGGGG 7 1
+    79   +    72854    73570     717 native AGGAGG 8 1
+    80   +    73634    75493    1860 native AAAATG 8 1
+    81   +    75483    76832    1350 native AGGAGG 9 1
+    82   +    76835    77659     825 native AGGTGA 7 1
+    83   +    77675    78472     798 native GAAAGG 10 1
+    84   +    78559    79800    1242 native AGGGGG 9 1
+    85   +    80126    80758     633 atypical CATAGG 6 1
+    86   +    81299    82177     879 atypical ATGAGG 8 1
+    87   +    82320    83297     978 native AGGAGG 9 1
+    88   +    83380    84471    1092 native AGGAAT 7 1
+    89   -    84600    85484     885 native AGTAGG 7 1
+    90   -    85493    86146     654 atypical TGGAGG 8 1
+    91   -    86150    87499    1350 atypical ACAATC 6 1
+    92   +    87672    88613     942 native AGGAGG 7 1
+    93   -    88647    89543     897 native AGAAGG 6 1
+    94   -    89558    90118     561 native AAGGGG 6 1
+    95   -    90214    91320    1107 native AGGGGG 7 1
+    96   +    91498    91902     405 native GCGAGG 8 1
+    97   +    91998    93785    1788 native AGGAGA 7 1
+    98   +    94209    94349     141 native AGGAAG 9 1
+    99   +    94456    95316     861 atypical AAGGGA 8 1
+   100   +    95448    96755    1308 native AGGGGG 10 1
+   101   +    96769    97893    1125 native TGGGTG 7 1
+   102   +    97996    98643     648 native GGGAGG 7 1
+   103   +    98677    99561     885 native ATGCGG 7 1
+   104   -    99614    100369     756 native CGGAGG 10 1
+   105   -    100369    101982    1614 native TGGAGG 8 1
+   106   -    102310    102942     633 native GAAAGG 6 1
+   107   +    103012    103374     363 native AAGAGG 10 1
+   108   -    103411    104193     783 native AAGAGT 7 1
+   109   -    104332    104697     366 atypical AGGCGG 7 1
+   110   -    104749    104931     183 native TTGAGA 2 1
+   111   +    104930    105028      99 native AGTCGG 8 1
+   112   +   <105306    105407     102 native
+   113   -    105400    105789     390 atypical TAGAGG 8 1
+   114   +    105881    106360     480 native GAGGGG 6 1
+   115   -    106355    107812    1458 native TGGAGG 6 1
+   116   -    107832    108758     927 native AGAAGG 8 1
+   117   +    108846    109604     759 native TTGAGG 6 1
+   118   -    109651    110595     945 native AAGAGG 14 1
+   119   +    110757    111572     816 native AGGGGG 5 1
+   120   +    111584    112240     657 native GAGAGG 5 1
+   121   +    112259    112897     639 native AGGAGA 6 1
+   122   +    112900    113319     420 native GGCTGG 8 1
+   123   +    113526    114512     987 native AAGAGG 5 1
+   124   +    114662    115345     684 native TAGAGG 7 1
+   125   +    115358    116182     825 native AAGGGG 7 1
+   126   +    116309    117793    1485 native AGGCGA 5 1
+   127   +    117786    118523     738 native CGGATG 7 1
+   128   -    118560    119795    1236 native GGGAGT 7 1
+   129   +    119950    121032    1083 native AAGAGG 9 1
+   130   +    121060    121800     741 native TAGAGG 9 1
+   131   +    121905    123038    1134 native GGGAGT 8 1
+   132   +    123035    123820     786 native AGAAGG 9 1
+   133   +    123792    124613     822 native AGAAGG 9 1
+   134   +    124688    124903     216 native AGGCTG 8 1
+   135   -    124937    127954    3018 native AGGAAG 8 1
+   136   -    128437    128913     477 native GGGAGA 5 1
+   137   +    129029    129526     498 native GGAAGG 9 1
+   138   -    129546    130349     804 native GAAAGG 9 1
+   139   +    130501    130992     492 native AGGAGA 9 1
+   140   +    131327    132262     936 native TGGAGG 5 1
+   141   +    132292    133086     795 native GGGAGT 10 1
+   142   +    133065    133862     798 native AGGAGG 7 1
+   143   +    133862    134674     813 native GGGAGG 13 1
+   144   -    134718    134831     114 native AGCAGA 11 1
+   145   -    134828    135289     462 atypical AGGAGA 7 1
+   146   +    135445    135930     486 native AGGAGG 5 1
+   147   +    135984    137381    1398 native TTGGGG 7 1
+   148   +    137497    139446    1950 native AGGGGA 8 1
+   149   +    139469    140752    1284 native TAGGGG 14 1
+   150   +    141071    143290    2220 native TGGAGT 7 1
+   151   +    143283    143996     714 native TGGTGA 6 1
+   152   +    144048    144617     570 native AGGTAG 5 1
+   153   +    144610    145803    1194 native ATAAGG 6 1
+   154   +    145903    147120    1218 native AGGAGG 11 1
+   155   +    147199    149142    1944 native AGGGGG 8 1
+   156   -   <149525    149707     183 native AGGAGG 8 1
+   157   -    149910    151931    2022 native GGGAGA 7 1
+   158   -    152200    152634     435 native AAGGGG 8 1
+   159   -    153152    153553     402 native GAGAGA 8 1
+   160   +    153789    154004     216 native AGGAGA 5 1
+   161   +    154049    154318     270 native AGGAAA 6 1
+   162   +    154832    156187    1356 native AGGAGG 9 1
+   163   -    156334    156495     162 native AGGAGG 4 1
+   164   -    156567    156815     249 native AACAGA 7 1
+   165   -    156840    156980     141 atypical AAAAGG 9 1
+   166   -    157188    157577     390 native CGAAGA 7 1
+   167   +    158192    159415    1224 native AGGAGG 7 1
+   168   +    159434    160525    1092 native CGGAGG 6 1
+   169   +    160629    162464    1836 native GAGAGG 6 1
+   170   +    162582    162782     201 native CTGATG 5 1
+   171   +    162821    163387     567 atypical TAAAGG 5 1
+   172   -    163645    164610     966 native AATAGG 8 1
+   173   -    164620    164919     300 native TTGATA 8 1
+   174   -    165699    166454     756 native AAGAAG 7 1
+   175   +    166618    167310     693 native AGGAGA 6 1
+   176   +    167530    168132     603 native AAGAGG 6 1
+   177   +    168540    169100     561 native GGGAGA 5 1
+   178   +    169311    170306     996 native GGGATA 9 1
+   179   +    170306    170923     618 native AAGGGG 7 1
+   180   +    170959    173949    2991 native AGGACA 12 1
+   181   +    174035    175429    1395 native TAAAGG 8 1
+   182   +    175683    176945    1263 native TGGAGG 7 1
+   183   +    177367    177528     162 native AAGAGG 8 1
+   184   +    177494    177724     231 native TGGGTA 9 1
+   185   +    178031    179344    1314 native GAAAGG 7 1
+   186   +    179326    179997     672 native TTGAAG 1 1
+   187   +    180166    181788    1623 native GAGGGG 7 1
+   188   +    181882    183492    1611 native GTGAAG 13 1
+   189   +    183650    184792    1143 native AAAAGG 9 1
+   190   +    184966    185895     930 native GGGAGC 7 1
+   191   +    185904    186935    1032 native GCGAGG 13 1
+   192   +    186951    188009    1059 native GAAAGG 10 1
+   193   +    188030    188974     945 native AGGAGA 5 1
+   194   -    189056    190372    1317 native AGGAGA 8 1
+   195   -    190513    190938     426 native AGGAAG 8 1
+   196   +    191171    191632     462 native AGGTGT 6 1
+   197   +    191721    192383     663 atypical AGGAGT 7 1
+   198   -    192544    193143     600 native GAAAGG 9 1
+   199   +    193268    194290    1023 native AAGAGT 7 1
+   200   +    194314    194793     480 native CAGAGG 7 1
+   201   +    194783    195391     609 atypical TGAAGA 2 1
+   202   +    195691    198354    2664 native GAGAGG 9 1
+   203   +    198447    200423    1977 native AGGAGT 11 1
+   204   +    200423    201190     768 native TGGAGC 12 1
+   205   +    201177    201743     567 native GTGAGA 4 1
+   206   +    201733    202617     885 native AGGAGG 6 1
+   207   +    203024    203281     258 native AGGAGT 9 1
+   208   +    203384    204214     831 native GAAAGG 7 1
+   209   +    204261    205646    1386 native AAGAGG 10 1
+   210   +    205885    206484     600 native GAGAGA 8 1
+   211   +    206570   >207202     633 native ATGAGG 9 1
+   212   +   <207305    207655     351 native
+   213   +    207680    207865     186 native AAGATA 14 1
+   214   +    208411   >208677     267 native CTGAGG 10 1
+   215   +   <208780    209997    1218 native
+   216   +    210238    211212     975 native CGGAGG 5 1
+   217   +    211295    212212     918 native TGGGTG 5 1
+   218   -    212259    212534     276 native AAGAGG 8 1
+   219   -    212562    213926    1365 native TGGTGG 5 1
+   220   +    214040    214441     402 native GGGATG 5 1
+   221   +    214488    215036     549 native GAGAGG 10 1
+   222   +    215154    216773    1620 native AGGAGC 6 1
+   223   +    216903    218198    1296 native AAAAGG 10 1
+   224   +    218453    218938     486 native TTGAGC 5 1
+   225   -    218998    220422    1425 native TAAAGG 9 1
+   226   -    220503    221327     825 native GTGAGG 5 1
+   227   -    221427    222701    1275 native AGGAAA 8 1
+   228   -    222705    223283     579 native GGGAGG 6 1
+   229   -    223965    224639     675 native AGAAGT 7 1
+   230   -    224717    225625     909 native AAGAGG 14 1
+   231   +    225883    227433    1551 native AAGAGG 9 1
+   232   +    228166    228405     240 atypical AACAGT 8 1
+   233   -    228587   >228691     105 native
+   234   +   <228793    228882      90 native
+   235   +    228962    230020    1059 native AGGAAA 6 1
+   236   +    230360   >230794     435 native AGGAGG 8 1
+   237   +    231113    232699    1587 native AGGACG 9 1
+   238   -    232724    233554     831 native GTGAGG 7 1
+   239   +    233739    233984     246 native AGGAGT 8 1
+   240   +    234110    235477    1368 native GGGAGT 9 1
+   241   +    235490    236989    1500 native AGGAGA 8 1
+   242   +    237072    237428     357 native GTGAGG 9 1
+   243   +    237431    238561    1131 native AGGAGA 7 1
+   244   +    238699    239289     591 native AAAAGC 13 1
+   245   -    239320    240027     708 native TGGAGG 7 1
+   246   -    240205    241176     972 native AGGAGA 9 1
+   247   +    241311    241868     558 native GAGGGG 9 1
+   248   +    241870    245367    3498 native ATAAGT 9 1
+   249   +    245379    245621     243 native TAGAGG 8 1
+   250   +    245693    246070     378 native CAGAGG 13 1
+   251   +    246070    246432     363 native ATGATA 7 1
+   252   +    246473    247729    1257 native TAGGGA 5 1
+   253   +    247824    249989    2166 native CGGAGG 6 1
+   254   +    250043    250933     891 native AGAAGG 7 1
+   255   +    251011    252036    1026 native GAAAGG 8 1
+   256   +    252052    253602    1551 native TGGAGG 9 1
+   257   +    254762    255217     456 native GGGATG 7 1
+   258   +    255322    257802    2481 native GGGTGG 7 1
+   259   +    258025    261666    3642 native AGGATG 7 1
+   260   +    261682    265335    3654 native AGGAGG 8 1
+   261   +   <265582    265773     192 native
+   262   -    265853    266536     684 atypical GTGAGG 8 1
+   263   +    266720    267127     408 native AGGAGG 8 1
+   264   +    267143    267613     471 native AGGAGG 9 1
+   265   +    267648    269741    2094 native GAGAGA 8 1
+   266   +    270061    270369     309 native AGGAGG 7 1
+   267   +    270393    271031     639 native AAGAGG 7 1
+   268   +    271046    271663     618 native AGGAGG 6 1
+   269   +    271663    271968     306 native AGGAGG 10 1
+   270   +    271984    272820     837 native AGGAGG 8 1
+   271   +    272839    273120     282 native AGGAGG 8 1
+   272   +    273140    273493     354 native AGGAGA 9 1
+   273   +    273507    274181     675 native GGGAGG 7 1
+   274   +    274181    274621     441 native GGGAGG 9 1
+   275   +    274611    274808     198 native AGGTGG 8 1
+   276   +    274827    275093     267 native GGGAGC 7 1
+   277   +    275125    275493     369 native GGGAGG 8 1
+   278   +    275513    275746     234 native GTGAGG 7 1
+   279   +    275761    276303     543 native GGGAGG 6 1
+   280   +    276316    276501     186 native TGGAGG 6 1
+   281   +    276526    276924     399 native AGGAGG 9 1
+   282   +    276949    277479     531 native AGGAGA 7 1
+   283   +    277505    277864     360 native TTGAGG 7 1
+   284   +    277882    278388     507 native AGGAGA 8 1
+   285   +    278405    278590     186 native GGGAGA 6 1
+   286   +    278614    279054     441 native AGGAGG 10 1
+   287   +    279054    280349    1296 native TTGAGG 7 1
+   288   +    280360    281016     657 native AGGAAC 6 1
+   289   +    281088    281309     222 native CGGAGG 7 1
+   290   +    281326    281442     117 native CGGAGG 5 1
+   291   +    281470    281820     351 native AGGAGG 8 1
+   292   +    281845    282234     390 native AGGAGG 7 1
+   293   +    282280    283218     939 native AAGGGG 7 1
+   294   +    283245    283628     384 native AGGAGG 7 1
+   295   +    283813    284664     852 atypical AAGAGG 13 1
+   296   +    284640    285497     858 atypical TGAAGC 7 1
+   297   +    285490    286287     798 native AGGGGG 6 1
+   298   +    286290    287078     789 native AGGACA 8 1
+   299   +    287183    287626     444 native CGGAGG 8 1
+   300   +    287642    288037     396 native AGGAGG 7 1
+   301   -    288100    288510     411 native AGCTTT 8 1
+   302   -    288599    289183     585 native GAAAGG 8 1
+   303   -    289180    289617     438 atypical AAGAAC 8 1
+   304   +    289982    290716     735 atypical TGGACG 9 1
+   305   +    290755    291435     681 native GGGAGG 5 1
+   306   +    291498    292397     900 native GGAAGG 9 1
+   307   +    292602    293282     681 native AGGAAT 7 1
+   308   +    293386    294321     936 native TGGAGT 7 1
+   309   +   <294583    294687     105 native
+   310   +    295158    297836    2679 native GGGAGG 7 1
+   311   -    298051    298239     189 native AAGAAG 4 1
+   312   -    298229    298318      90 native AGGAGG 8 1
+   313   -    298501    299343     843 native AGGTAG 7 1
+   314   -    299487    300836    1350 native AGGAGG 7 1
+   315   -    301520    301822     303 native AAAAGG 9 1
+   316   +    301958    302509     552 native TGGAGT 7 1
+   317   +    302509    303885    1377 native AGGAAG 7 1
+   318   +    303961    305460    1500 native AAGAGG 8 1
+   319   +    305562    306983    1422 native AGAAGG 14 1
+   320   +    306976    307416     441 native ACAAGG 7 1
+   321   +    307403    308155     753 native GGATGG 11 1
+   322   +    308298    308843     546 native AGGAGA 6 1
+   323   +    308919    309137     219 native AGGAGG 9 1
+   324   +    309249    310745    1497 native GTAAGG 9 1
+   325   -    310742    312484    1743 native GAAAGG 10 1
+   326   +    312830    312997     168 native ACGAGG 10 1
+   327   +    313105    313662     558 native AGGAGA 6 1
+   328   +    313790    314215     426 native AGGAGG 8 1
+   329   +    314298    314990     693 native AGGAGG 7 1
+   330   +    315165    316031     867 native AGGAAA 6 1
+   331   +    316035    317030     996 native AGGAAA 7 1
+   332   +    317032    317919     888 native GAGAGG 11 1
+   333   +    317927    318724     798 native TAAAGG 4 1
+   334   +    318726    319481     756 native GGGAAG 11 1
+   335   +    319498    320175     678 native TTGAGG 7 1
+   336   +    320334    320546     213 native AGGAGG 5 1
+   337   +    320571    320738     168 native AACAGG 7 1
+   338   +    320772    321509     738 native ATTAGG 1 1
+   339   +    321770    322282     513 native TGGAGG 9 1
+   340   +    322333    322695     363 native CGGAGG 8 1
+   341   +    322771    322992     222 atypical ATAATG 6 1
+   342   +    322970    323578     609 atypical ATAAGG 3 1
+   343   +    323619    324248     630 native GAAAGG 9 1
+   344   +    324238    324744     507 native AAGAGG 7 1
+   345   +    324940    326727    1788 native GGGAAG 7 1
+   346   +    326741    327076     336 native AGGAGA 8 1
+   347   +    327077    327676     600 native GAAAGG 10 1
+   348   +    327676    327915     240 atypical GGAAGA 11 1
+   349   +    328019    328657     639 native TGGAGG 5 1
+   350   +    328669    328989     321 native TTAAGG 9 1
+   351   +    328990    329847     858 native AAGCGG 6 1
+   352   +    329858    330208     351 native AGTAGG 9 1
+   353   +    330198    331064     867 native AAAGGG 11 1
+   354   +    331067    331801     735 native TCAAGG 6 1
+   355   +    331859    332377     519 native GAGAGG 13 1
+   356   +    332404    333138     735 native AAGAGA 9 1
+   357   +    333122    333694     573 native AGCCGG 9 1
+   358   +    333691    334740    1050 native AAGAAG 8 1
+   359   +    334882    335595     714 native AAGAGG 8 1
+   360   +    335605    336576     972 native AGGAGT 5 1
+   361   +    336569    337279     711 native AGGAGT 9 1
+   362   -    337342    337845     504 atypical TGGAGG 4 1
+   363   -    338427    340340    1914 native AGGTGA 6 1
+   364   +    340514    341161     648 native TGGGGG 8 1
+   365   +    341301    341756     456 native GGGAGG 8 1
+   366   +    341756    342502     747 native AGAAGG 8 1
+   367   -    342537    343523     987 native AAGATG 5 1
+   368   -    343536    344993    1458 native CGGAGG 8 1
+   369   +    345215    347164    1950 native TGAAGG 8 1
+   370   +    347308    347487     180 atypical AGGAGA 6 1
+   371   -    347918    348103     186 atypical CGGAGG 8 1
+   372   +    348379    348900     522 native AGGGGA 8 1
+   373   +    349655    350089     435 atypical AGGAGG 6 1
+   374   -    350628   >350798     171 native
+   375   +    350937    351599     663 atypical TAAATG 4 1
+   376   +    351836    352120     285 native AGGGGG 7 1
+   377   +    352174    353802    1629 native AGGAGG 12 1
+   378   -    353899    355191    1293 native AGGATT 7 1
+   379   -    355191    355442     252 native GTCTTT 8 1
+   380   -    355616    355858     243 native AGGAGG 9 1
+   381   -    355851    356582     732 native TTAACC 6 1
+   382   +    356587    356832     246 atypical AAAAAG 7 1
+   383   -    357154   >357246      93 native
+   384   +    357661    358104     444 native GAGAGG 9 1
+   385   +    358123    358626     504 native AGGAGG 7 1
+   386   +    358671    359540     870 native AAGAGG 8 1
+   387   +    359543    360385     843 native AGGAGG 10 1
+   388   +    360407    360751     345 atypical GAAAGG 9 1
+   389   +    360885    363482    2598 native GAAAGG 7 1
+   390   +    363482    365392    1911 native AGGATG 7 1
+   391   +    365393    365983     591 native GAAAGG 7 1
+   392   +    366032    367048    1017 native AGGAAG 8 1
+   393   +    367107    367532     426 native ATGAGG 8 1
+   394   +    367640    369091    1452 native AAAAGG 8 1
+   395   +    369084    370205    1122 native GGAACA 8 1
+   396   +    370265    371221     957 native ATGAGG 7 1
+   397   +    371214    372575    1362 native AAGAAG 13 1
+   398   +    372718    373152     435 atypical TGAAGA 2 1
+   399   +    373324    373593     270 atypical TGGATG 5 1
+   400   +    373863    376502    2640 native GGGAGA 5 1
+   401   +    376563    376820     258 native AGGAGG 7 1
+   402   +    376820    377248     429 native GTAAGA 7 1
+   403   +    377250    377561     312 native GAAAGG 6 1
+   404   +    377625    379982    2358 native AAAAGA 13 1
+   405   +    380073    380384     312 native AAGAGG 8 1
+   406   -    380429    380800     372 native AGGAGT 6 1
+   407   -    380905    381306     402 native GGGATG 9 1
+   408   +    381395    382198     804 native AAGAGG 8 1
+   409   +    382198    382818     621 native ACGAGG 8 1
+   410   -    382855    383673     819 native CGCATA 5 1
+   411   +    383840    384265     426 native TGGAGG 13 1
+   412   +    384283    384654     372 native AGGAGG 8 1
+   413   -    384720    385826    1107 native AAGAGG 6 1
+   414   +    385972    386973    1002 native GGAAGG 14 1
+   415   -    387054    388424    1371 native TAGAGG 9 1
+   416   +    388518    388838     321 native AGGGTG 6 1
+   417   +    388853    390244    1392 native AGAAAG 10 1
+   418   +    390228    390851     624 native GAGAAG 8 1
+   419   +    390851    391630     780 native GAAAGG 7 1
+   420   +    391627    392235     609 native TAGATG 10 1
+   421   -    392249    392899     651 native AGGAGA 4 1
+   422   -    392908    393732     825 native CGGCGG 10 1
+   423   +    398176    399339    1164 native TGGAGG 7 1
+   424   +    399353    400396    1044 native AAGAGG 6 1
+   425   +    400396    401421    1026 native GGGACA 9 1
+   426   +    401493    403550    2058 native GAGAGG 8 1
+   427   +    403617    403850     234 native TGGAGG 7 1
+   428   +    403925    406264    2340 native TGGAGA 8 1
+   429   +    406277    406735     459 native AGGAGT 8 1
+   430   +    407622    408512     891 native AAGAGG 7 1
+   431   +    408963    410162    1200 native AGGGGG 6 1
+   432   +    410181    411641    1461 native AAGAGG 8 1
+   433   -    411685    412665     981 native AGGAAA 6 1
+   434   -    412802    413464     663 atypical GGGAGA 6 1
+   435   +    413753    416167    2415 native AGGAGA 8 1
+   436   +    416261    417907    1647 native AGGAAA 5 1
+   437   +    418060    419055     996 native AGGAGG 10 1
+   438   +    419068    419289     222 atypical GAAAGG 7 1
+   439   -    419385    419519     135 native TAAAGA 8 1
+   440   +    419967    421157    1191 native TTGTGT 5 1
+   441   +    421307    421459     153 native AGGAGA 8 1
+   442   +    421437    421778     342 atypical TGGAGC 13 1
+   443   +    421768    422418     651 native AAGAGG 9 1
+   444   +    422533    423456     924 native ACGAGG 8 1
+   445   +    423468    423587     120 native ATGAGG 6 1
+   446   +    423594    423740     147 native TTAAGT 8 1
+   447   +    423725    424072     348 native GTGAGG 1 1
+   448   -    424179    424490     312 native TGAAAG 7 1
+   449   +    424730   >424858     129 atypical AGAAGC 9 1
+   450   +   <424960    425715     756 native
+   451   +    425912    426727     816 native ACGAGG 5 1
+   452   +    426780    426938     159 native AGAAGA 8 1
+   453   +    426926    427048     123 native GGGATG 11 1
+   454   +    427577    428176     600 native AGAATT 9 1
+   455   +    428266    428787     522 native TAAGGG 13 1
+   456   -    428847    429155     309 native ATGAGG 8 1
+   457   +    429455    430750    1296 native AGGACG 6 1
+   458   +    430752    431600     849 native CGGAGG 8 1
+   459   +    431726    432400     675 native AGAAGA 11 1
+   460   -    432440    432964     525 native AAAAGA 7 1
+   461   -    433019    433597     579 native AGGAGG 7 1
+   462   +    433800    434411     612 native GGAAGG 7 1
+   463   +    434424    434687     264 atypical TGAAGG 9 1
+   464   +    434956    436641    1686 native AAGAGG 5 1
+   465   +    436751    437662     912 native AGGAGG 9 1
+   466   +    437734    438096     363 native AAGAGG 8 1
+   467   +    438119    438253     135 native AGAAGA 7 1
+   468   +    438256    438525     270 atypical GGGCGA 6 1
+   469   +    438673    438981     309 atypical AATAGG 9 1
+   470   +    438971    439582     612 atypical AGAAAG 4 1
+   471   +    439582    440547     966 atypical AAGAGA 7 1
+   472   -    440540   >440644     105 native
+   473   -   <440749    440841      93 atypical AGAAGA 8 1
+   474   -    441083    441883     801 atypical AAAAGG 11 1
+   475   -    441864    442658     795 atypical GAAAGG 8 1
+   476   +   <442922    444037    1116 native
+   477   +    444188    444829     642 native AAGAGG 11 1
+   478   -    444874    445524     651 native AAGATG 6 1
+   479   +    445670    446224     555 native GAAAGG 9 1
+   480   +    446337    446570     234 native TAGATG 7 1
+   481   +    446580    447227     648 native TAGAGG 6 1
+   482   +    447220    447390     171 native AGAAGA 6 1
+   483   +    447521    447745     225 native ATGGTT 7 1
+   484   -    448053    448538     486 atypical AGGAGA 6 1
+   485   +    448682    449521     840 native GTGAGG 8 1
+   486   +    450090    450908     819 native AGGAAG 6 1
+   487   +    451000    451329     330 native AGGATG 9 1
+   488   -    451395    452822    1428 native AGGAGT 6 1
+   489   -    452951    453682     732 native GGGAGA 6 1
+   490   +    453883    455220    1338 native AGGGGA 8 1
+   491   -    455288    456040     753 native AGGAGT 14 1
+   492   +    456264    456686     423 native TAGTTC 9 1
+   493   +    456674    456970     297 atypical TGGAGC 7 1
+   494   +    456988    457116     129 atypical AAGAGA 6 1
+   495   +    457142    457231      90 native GGGACA 7 1
+   496   -    457271    458128     858 native AGGAAA 5 1
+   497   +    458217    460274    2058 native AGGAGC 9 1
+   498   +    460295    460645     351 native AGGAGG 9 1
+   499   +    460654    461874    1221 native ACTAGA 7 1
+   500   +    461855    464356    2502 native GAAAGG 8 1
+   501   +    464349    465326     978 native GAAAGG 8 1
+   502   -    465369    465791     423 native AGAAGC 7 1
+   503   -    465930    466832     903 native TGGAGA 9 1
+   504   -    466950    467285     336 native TTAAGG 7 1
+   505   -    467295    467732     438 native AAGAGG 7 1
+   506   +    468019    468210     192 atypical ATGCGG 7 1
+   507   +    468227    468562     336 native AAGGGG 7 1
+   508   +    468577    469320     744 native AAGAAA 7 1
+   509   +    469313    470491    1179 native GAGAGG 9 1
+   510   +    470511    471164     654 native AAGAGA 14 1
+   511   +    471234    471554     321 native GAGGGG 7 1
+   512   +    471574    472221     648 native AGGAGA 12 1
+   513   +    472464    472592     129 native CAAAGA 14 1
+   514   +    472759    474660    1902 native GGGAGT 7 1
+   515   +    474749    476062    1314 native TGGAGA 7 1
+   516   -    476117    477094     978 native AGGAGA 6 1
+   517   -    477193    477597     405 native TGGCGT 7 1
+   518   -    477601    478338     738 native ACAAGA 2 1
+   519   -    478444    478707     264 native TGGAGG 7 1
+   520   +    478845    479822     978 native AGAAGA 13 1
+   521   -    479937    480059     123 atypical TGAAGG 8 1
+   522   +    480229    480543     315 native AGGAGT 7 1
+   523   +    480561    481442     882 native TTGAGG 8 1
+   524   +    481587    482240     654 native AGGGGA 9 1
+   525   +    482408    484069    1662 native GAAAGG 7 1
+   526   +    484082    484567     486 native ACGAGG 7 1
+   527   +    484533    485708    1176 native AAAAGA 6 1
+   528   +    485912    486628     717 native AGGAGA 8 1
+   529   +    486629    486883     255 native AGGAGA 5 1
+   530   +    486880    487551     672 native TGGAGG 7 1
+   531   +    487548    489776    2229 native AGGAGT 6 1
+   532   +    489752    491203    1452 native AGGAGT 7 1
+   533   +    491205    492242    1038 native GAAAGG 9 1
+   534   +    492252    492848     597 atypical TAGAGG 6 1
+   535   +    492850    494391    1542 native GGAAGA 8 1
+   536   +    494404    495663    1260 native TGGTGA 5 1
+   537   +    496165    498699    2535 atypical AAGAGA 8 1
+   538   +    498714    499457     744 native GGAAGG 5 1
+   539   +    499457    501430    1974 atypical AGAAGG 9 1
+   540   +    501433    502284     852 native AGGAGA 9 1
+   541   +    502287    502943     657 atypical TGAAGG 6 1
+   542   +    502940    503971    1032 atypical AGGAAG 8 1
+   543   +    503981    504271     291 atypical AGTAGG 8 1
+   544   +    506903    507124     222 native TAGTGC 7 1
+   545   +    507329    509992    2664 native AAGGGG 6 1
+   546   +    510001    510831     831 native AGTAGG 7 1
+   547   +    510828    511430     603 native AGGTGA 7 1
+   548   +    511433    511900     468 native AAGAGG 7 1
+   549   +    511903    513234    1332 native AAGGGC 8 1
+   550   +    513266    514174     909 native AGTAGG 7 1
+   551   +    514465    516399    1935 native TGGAGG 5 1
+   552   +    516491    516862     372 atypical AGGAGA 6 1
+   553   +    516869    518119    1251 native ATGAGA 14 1
+   554   +    518331    518624     294 native AGAAGA 9 1
+   555   +    518640    518813     174 native CGTAGG 1 1
+   556   +    518883    519914    1032 native ACGTTG 7 1
+   557   +    520282    520638     357 native TGTAGC 7 1
+   558   +    520660    520860     201 native TGGAGG 10 1
+   559   +    520904    521260     357 native AGGAGG 8 1
+   560   +    521406    521930     525 native TGGAGA 6 1
+   561   +    521923    523032    1110 native AGGAGA 9 1
+   562   +    523043    523699     657 native TAGAGG 7 1
+   563   +    523680    524273     594 native AAGGGG 7 1
+   564   +    524295    524642     348 native AGGAGA 6 1
+   565   +    524648    525799    1152 native GGAAGA 9 1
+   566   +    525801    526355     555 native TTGAGG 6 1
+   567   +    526519    527235     717 native ATGAGG 12 1
+   568   +    527222    528781    1560 native AAGAGA 8 1
+   569   -    528818    529306     489 atypical TAAAGG 7 1
+   570   -    529356    530318     963 native TGGTGA 8 1
+   571   -    530365    530637     273 native GAGAGG 8 1
+   572   +    530735    531502     768 native AGAAGG 8 1
+   573   +    531614    531964     351 native TGGAGG 8 1
+   574   +    532249    533298    1050 native GAAAGG 9 1
+   575   +    533302    535716    2415 native AGGAGG 11 1
+   576   +    535793    536269     477 native AGGAGT 9 1
+   577   +    536333    537247     915 native AGAAGG 9 1
+   578   +    537748    538035     288 atypical AAGAAA 8 1
+   579   -   <538284    538673     390 native AAAAGC 7 1
+   580   -    538845    539768     924 native AGAAGA 7 1
+   581   -    539876    541498    1623 native TAATGG 4 1
+   582   -    541540    542466     927 atypical TAGCTA 9 1
+   583   +    542557    544665    2109 native GAGGGA 8 1
+   584   +    544742    544891     150 native AGGTGG 8 1
+   585   +    544940    545500     561 atypical TATAGG 6 1
+   586   +    545521    546201     681 native GGGAGG 5 1
+   587   +    546202    546429     228 native GAATGG 14 1
+   588   +    546488    546889     402 native GGAAGG 14 1
+   589   +    546968    547888     921 native AAAAGA 7 1
+   590   +    547897    548244     348 native AGAATG 13 1
+   591   +    548232    548708     477 native GGGATG 12 1
+   592   +    548671    549126     456 native AGGCTG 5 1
+   593   +    549255    550592    1338 native AGGTGG 7 1
+   594   +    550845    551564     720 native AGATGG 1 1
+   595   +    551702    552607     906 native TGAAAG 7 1
+   596   +    552708    553697     990 native AAGGGG 8 1
+   597   -    553780   >553971     192 native
+   598   -    554255    555247     993 native AGGAGT 9 1
+   599   -    555352    556308     957 native GTGAGA 7 1
+   600   -    556292    558178    1887 native ATGAGG 7 1
+   601   +    558405    559412    1008 native AAAAGA 7 1
+   602   +    559564    559827     264 atypical AAGAGC 13 1
+   603   +    559832    560056     225 native TAGAGT 14 1
+   604   +    560041    560370     330 native ATGGGG 1 1
+   605   +    560577    561509     933 native TGGCGG 10 1
+   606   +    561776    563692    1917 native GGGAGG 7 1
+   607   +    563843    564745     903 native TTGGGC 1 1
+   608   +    564679    565002     324 native AAGAGA 9 1
+   609   +    565134   >566132     999 native AGAAGC 9 1
+   610   -   <566235    566408     174 native TTAAGC 11 1
+   611   +    566870    568459    1590 atypical AGGAGG 6 1
+   612   +    568781    568939     159 native TGAACA 5 1
+   613   +    568953    569798     846 atypical AGAAGT 9 1
+   614   -    569934   >570095     162 native
+   615   +   <570200    570724     525 native
+   616   +    571169    571747     579 native CAGAGG 6 1
+   617   +    571925    572884     960 atypical GGGGGG 7 1
+   618   -    573002    573310     309 native CGGGGC 8 1
+   619   -    573380    573658     279 atypical GGGCGG 9 1
+   620   +    574015    574380     366 atypical AGGTGC 10 1
+   621   +    574386    574643     258 native AGAAGG 10 1
+   622   +    574827    576056    1230 native TGGAGG 6 1
+   623   -    576129    578003    1875 native AGGAGA 5 1
+   624   +    578516    580141    1626 native TGGAGG 6 1
+   625   +    580154    581359    1206 native AGGAGA 8 1
+   626   -    581415    581822     408 atypical AGCAGG 6 1
+   627   +    582563    583729    1167 native TTGAGG 8 1
+   628   +    583751    585214    1464 native AGAAGG 7 1
+   629   +    585333    586328     996 native AAAAGG 7 1
+   630   -    586735    587970    1236 native AGGGGG 8 1
+   631   +    588308    589165     858 native AAGAGT 9 1
+   632   +    589213    589710     498 native ATGATG 6 1
+   633   +    589718    590524     807 native AGTAGG 6 1
+   634   +    590591    590992     402 native AAGATT 11 1
+   635   +    591038    592210    1173 native TCGAGG 7 1
+   636   +    592229    592636     408 atypical GTGAGG 7 1
+   637   +    592656    593360     705 atypical TAGAGG 9 1
+   638   +    593424    594209     786 native GGGAGA 6 1
+   639   +    594551    595477     927 native AAGTGC 9 1
+   640   -    595459    595965     507 native AAGAGG 13 1
+   641   +    596147    597598    1452 native AGTATA 7 1
+   642   +    597730    600942    3213 native AGGATA 6 1
+   643   +    600957    601667     711 native AGGAGT 9 1
+   644   +    601707    602417     711 native TAATGG 7 1
+   645   +    602404    603786    1383 atypical AGAAGG 11 1
+   646   +    603779    604546     768 atypical AAGAGG 8 1
+   647   -   <604754   >604969     216 native
+   648   -   <605074    605286     213 native TAAAGG 8 1
+   649   +   <605441    606223     783 native
+   650   +    606413    608158    1746 native AGAAGG 8 1
+   651   +    608223    608399     177 atypical AGGAGG 8 1
+   652   +    608396    608662     267 native GCAAGG 7 1
+   653   +    608681    609028     348 native TGCCGG 10 1
+   654   +    609068    609601     534 native AGATTG 8 1
+   655   +    609926    611671    1746 native AAGAGA 7 1
+   656   +    611770    611937     168 atypical GGTAGG 10 1
+   657   -    612325    612558     234 native AGGAGA 6 1
+   658   +    612711    613370     660 native GAGAGG 7 1
+   659   +    613351    614025     675 native AGGAAA 7 1
+   660   +    614035    614775     741 native AGGTGA 5 1
+   661   +    614788    615648     861 native AGGGGG 8 1
+   662   -    615695    616009     315 native AGGATG 7 1
+   663   -    616012    616893     882 native AAGCGA 7 1
+   664   -    616906    617568     663 native AGGAGT 7 1
+   665   +    617674    617967     294 native ATGAGG 7 1
+   666   +    618055    619083    1029 native GGGAGG 7 1
+   667   +    619227    619526     300 native GAAAGG 8 1
+   668   +    619675    620907    1233 native AGAAAG 11 1
+   669   +    621040    621333     294 atypical AGGAGA 5 1
+   670   +    621326    621622     297 atypical AGGTGG 8 1
+   671   -    622001    622483     483 native CTAAGA 6 1
+   672   -    622709    624040    1332 native AGGATA 9 1
+   673   -    624139    626763    2625 native TGGAGG 8 1
+   674   -    626974    628152    1179 native ATGAGG 9 1
+   675   -    628593    629216     624 native AGGAGT 9 1
+   676   -    629218    629922     705 native TGGAGG 4 1
+   677   +    630177    631100     924 native TGGAGG 6 1
+   678   +    631267    631809     543 native AGGAGA 5 1
+   679   +    631954    632910     957 native AGAAAG 8 1
+   680   +    632910    634187    1278 native TGGAGG 9 1
+   681   +    634187    635272    1086 native AGGAGA 6 1
+   682   +    635265    638453    3189 native GGAAGA 8 1
+   683   +    638778    638972     195 native AGGAAA 8 1
+   684   +    638938    639570     633 native ATGGGG 6 1
+   685   +    639595    640185     591 native CAGAGA 4 1
+   686   +    640089    640853     765 native GTAAGA 8 1
+   687   +    641027    641962     936 native GGGAGA 8 1
+   688   +    642007    642288     282 native AGGAGG 7 1
+   689   +    642281    642703     423 native AGGAGG 8 1
+   690   -    642755    645136    2382 native AGGAGA 5 1
+   691   +    645288    645890     603 native AGGATA 5 1
+   692   +    645975    646235     261 native GAAAGG 10 1
+   693   -    646287    646643     357 native ATGAGG 6 1
+   694   -    646652    647548     897 native AAGAGA 7 1
+   695   +    648006    649211    1206 native CGGGGG 8 1
+   696   +    649334    651130    1797 native AGGAGG 6 1
+   697   +    651201    651380     180 native AGAAGG 7 1
+   698   +    651446    652108     663 native AGGGGA 5 1
+   699   +    652248   >652514     267 native TAAAGG 8 1
+   700   -    652802    653827    1026 native AGGAAG 7 1
+   701   +    653966    655333    1368 native AAGTGG 7 1
+   702   +    655500    655811     312 native CGGAGG 7 1
+   703   +    655830    656120     291 native AGGTGA 7 1
+   704   +    656230    657339    1110 native AGAAGG 9 1
+   705   +    657423    657992     570 native GAGGGA 8 1
+   706   +    658010    658435     426 native TTGAGG 7 1
+   707   +    658443    658835     393 native TAGAGA 4 1
+   708   +    658895    659743     849 native AGGAGA 6 1
+   709   +    659733    661076    1344 native AGGAGA 4 1
+   710   +    661079    661321     243 native GTAAGG 8 1
+   711   +    661324    662193     870 native CAGAGG 7 1
+   712   +    662194    663006     813 native AAAAGG 8 1
+   713   +    663017    664699    1683 native AGGAGT 6 1
+   714   +    664692    665132     441 native AAGAGT 7 1
+   715   +    665270    665884     615 native AAGAGG 8 1
+   716   +    665887    666111     225 native AGGAGG 7 1
+   717   +    666161    668560    2400 native TACAGG 7 1
+   718   +    668574    669518     945 native GGGAGA 7 1
+   719   +    669505    670833    1329 native AGGAGA 5 1
+   720   +    670838    671593     756 native ACGAGG 8 1
+   721   +    671583    673598    2016 native AGGAGG 9 1
+   722   +    673599    674489     891 native AGGTGA 8 1
+   723   +    674502    675152     651 native AGGAGA 5 1
+   724   +    675152    675838     687 native AAAATT 8 1
+   725   +    675880    676185     306 native AAAAGA 14 1
+   726   -    676291    676476     186 native AGGAGG 8 1
+   727   +    676632    676994     363 native CGGAGG 6 1
+   728   +    677016    678677    1662 native CGGAGG 9 1
+   729   +    678679    680709    2031 native ATCAGT 8 1
+   730   +    680730    681731    1002 native TGGTGA 6 1
+   731   +    681762    682004     243 native AGGAGA 6 1
+   732   +    682126    683160    1035 native TGGAGG 8 1
+   733   +    683164    684150     987 native GGGAGT 5 1
+   734   +    684153    685112     960 native AGGAGA 10 1
+   735   +    685127    686056     930 native AGGAGG 10 1
+   736   +    686281    688050    1770 native TGGAGG 8 1
+   737   +    688316   >689143     828 native AGAAGC 9 1
+   738   +    689450    691219    1770 native TGGAGG 10 1
+   739   +    691333    692019     687 native AAGGGG 7 1
+   740   +    692035    695604    3570 native AAGGGG 11 1
+   741   +    695605    696897    1293 native ATGGGG 8 1
+   742   +    696940    698361    1422 native AGGAGA 5 1
+   743   +    698511    698852     342 native AGTAGA 7 1
+   744   -    698909   >699028     120 atypical
+   745   -    699414    700841    1428 native AGGGGA 8 1
+   746   +    701035    701376     342 native TGGTGA 6 1
+   747   +    701381    702811    1431 native GGGAGA 8 1
+   748   +    702901    703173     273 native AGGAGG 10 1
+   749   +    703242    703757     516 native AGGAGA 5 1
+   750   +    703747    704466     720 native TGGAGG 9 1
+   751   +    704579    704926     348 native AGGAGA 10 1
+   752   +    705048    705974     927 atypical GAAAAG 7 1
+   753   +    705967    706767     801 native GAAAGG 7 1
+   754   -    706782    707408     627 native CGGAGA 6 1
+   755   +    707559    707822     264 native GCGAGG 9 1
+   756   +    707885    708103     219 native TGGAGG 6 1
+   757   +    708185    709942    1758 native ATTAGG 7 1
+   758   +    709935    711728    1794 native TGGAGG 11 1
+   759   +    711823    713766    1944 native ATAAGG 7 1
+   760   -    713824    715005    1182 native TGGAGG 8 1
+   761   -    715107    715721     615 native TGGAGG 10 1
+   762   +    715787    716818    1032 native GAAAGG 11 1
+   763   +    716980    717753     774 native AGGAGG 9 1
+   764   +    717787    718812    1026 native AGGAGG 8 1
+   765   +    718951    719676     726 native AGGAGG 5 1
+   766   +    719676    720233     558 native TAGAGG 9 1
+   767   +    720236    720970     735 native TCAAGG 6 1
+   768   +    720972    721787     816 native CGGATA 6 1
+   769   +    721798    723054    1257 native AGGAGA 6 1
+   770   +    723098    724795    1698 native AGGAGA 5 1
+   771   +    724801    729111    4311 native AGGATA 6 1
+   772   +    729566    730042     477 native CGGAGG 7 1
+   773   +    730062    731243    1182 native GAAAGG 14 1
+   774   +    731252    731548     297 native AGGATA 9 1
+   775   +    731551    731862     312 atypical TGGTGA 9 1
+   776   +    731867    734485    2619 native AGGAGT 8 1
+   777   +    734505    734870     366 native AGGAGG 5 1
+   778   +    734922    735815     894 native AGAAGG 7 1
+   779   +    735836    736783     948 native TGAAGG 8 1
+   780   +    736953    738002    1050 native TGAGGG 8 1
+   781   +    738018    738599     582 native AGGAGG 6 1
+   782   +    738616    740475    1860 native AGGAAG 7 1
+   783   +    740557    741711    1155 native AGGAGT 7 1
+   784   -    741754    742056     303 atypical GTGAGA 7 1
+   785   +    742172    744010    1839 native GGGTGA 8 1
+   786   +    744013    744702     690 native TAAAGG 9 1
+   787   +    744823    747096    2274 native GTAAGG 13 1
+   788   +    747201    747728     528 native TGGAGG 11 1
+   789   -    747872    748546     675 native TTCAGG 9 1
+   790   -    748549    748776     228 native ACGAGG 8 1
+   791   -    748792    749586     795 atypical AGGAGG 7 1
+   792   -    749606    750067     462 atypical TGGTTC 7 1
+   793   -    750013    750606     594 native AAGAGA 1 1
+   794   -    750666    751151     486 native TGGATT 7 1
+   795   +    751361    751861     501 native CGGGGG 6 1
+   796   -    751929    754202    2274 native TGGAGG 7 1
+   797   +    754331    755185     855 native AGGATA 8 1
+   798   +    755258    756487    1230 native AGGAGG 7 1
+   799   +    756499    757539    1041 native AAGAGG 7 1
+   800   +    757542    758474     933 native AGGAAG 9 1
+   801   +    758491    759027     537 atypical GTGAGA 5 1
+   802   +    759148    760314    1167 native GTAAGG 6 1
+   803   +    760330    760491     162 atypical AGAAGG 8 1
+   804   +    760494    761105     612 native TGGATG 10 1
+   805   +    761182    761550     369 native TGGAGA 7 1
+   806   +    761579    761719     141 native TGGAGT 12 1
+   807   +    761886    762542     657 native GGTAGG 8 1
+   808   -    762940    763641     702 native TGAAAA 8 1
+   809   -    763583    763969     387 native ATGCTG 8 1
+   810   -    764317    765807    1491 native AGGAAG 7 1
+   811   +    765949    766776     828 native AGCATT 7 1
+   812   +    766764    767012     249 atypical ATGAAA 7 1
+   813   +    767166    767255      90 native TGGAGG 8 1
+   814   +    767245    767652     408 native GGGCTG 11 1
+   815   +    767772    768035     264 native TAAAAA 7 1
+   816   -    768073    768720     648 native AGGCGG 6 1
+   817   -    768870    769748     879 native AAAAGG 7 1
+   818   -    769926    770462     537 native AGCAGA 4 1
+   819   -    770722    771558     837 native AAGAGG 9 1
+   820   +    771816    771992     177 native AGGAGG 8 1
+   821   +    772103    772546     444 native AGAAGG 7 1
+   822   +    772572    773531     960 native AGGAGC 8 1
+   823   +    773534    774058     525 native AGGACA 13 1
+   824   +    774058    774963     906 native CAGAGG 6 1
+   825   +    774964    775716     753 native AGGAGC 8 1
+   826   +    775970    776878     909 native AGGAGG 13 1
+   827   +    776882    778945    2064 native CGGGGG 8 1
+   828   +    778972    780807    1836 native AAAAGG 8 1
+   829   +    780824    781936    1113 native AGGAGG 7 1
+   830   -    781986    782642     657 atypical ATGAGC 7 1
+   831   -    782642    783082     441 atypical AAGTGG 6 1
+   832   +    783181    783867     687 native TGGAGG 5 1
+   833   +    783860    784657     798 native AGGAGA 6 1
+   834   +    784677    785918    1242 native AGGAGG 9 1
+   835   +    786192    786557     366 native AGAAGG 7 1
+   836   +    786559    787266     708 native GCGAGG 6 1
+   837   +    787266    788111     846 native AGGATG 7 1
+   838   +    788122    788952     831 native AGGAGG 5 1
+   839   +    788966    789754     789 native GGGAAG 8 1
+   840   +    789813    791138    1326 native TTGAGG 7 1
+   841   -    791187    791378     192 native AAGAGA 7 1
+   842   -    791439    792008     570 native AGGAGA 6 1
+   843   +    792094    792858     765 atypical GGTAGG 5 1
+   844   +    792848    793831     984 native TTGAGA 6 1
+   845   +    793806    795188    1383 native GAAAGG 9 1
+   846   -    795240    796256    1017 native TGGAGA 5 1
+   847   -    796269    797351    1083 native TCGAGG 11 1
+   848   -    797395    798357     963 atypical TGGAGA 7 1
+   849   -    798357    799265     909 native AGGATG 8 1
+   850   +    799347    802829    3483 native AGGAAG 9 1
+   851   +    802832    806446    3615 native AGAAGG 7 1
+   852   +    806465    809248    2784 native AGAAGG 6 1
+   853   +    809245    809745     501 atypical AGAAAA 9 1
+   854   +    809799    811097    1299 native AGGTGG 11 1
+   855   +    811183    811827     645 atypical GAAAGG 9 1
+   856   +    811829    812449     621 native AAGAGG 10 1
+   857   -    812665    814944    2280 native GGGAAA 7 1
+   858   -    814941    815573     633 atypical AGGAGT 7 1
+   859   +    815637    816206     570 native AGGGGG 6 1
+   860   +    816297    816713     417 native AGGAGT 10 1
+   861   +    817176    818300    1125 native AAGAGA 4 1
+   862   +    818282    819544    1263 native GAGTAG 13 1
+   863   +    820077    820346     270 atypical GATAGC 7 1
+   864   +    820343    822019    1677 native AGAATG 7 1
+   865   +    822026    822490     465 native GTGGGT 14 1
+   866   +    822483    823394     912 native AGGATG 6 1
+   867   +    823397    824452    1056 native AAGTGA 6 1
+   868   +    824456    827647    3192 native TGGAGT 5 1
+   869   -    827715    829409    1695 native TTGAGG 9 1
+   870   +   <829785    829889     105 native
+   871   +    829900    830316     417 atypical AGCACC 6 1
+   872   +    830390    831271     882 native AAGGGG 7 1
+   873   -    831474    832556    1083 native AGGAGA 4 1
+   874   +    833414    833869     456 native ACGAGG 7 1
+   875   +    834199    834369     171 atypical AAGAGA 11 1
+   876   -    834415    835023     609 native AGGGGT 11 1
+   877   -    835720    836025     306 native CACTGG 7 1
+   878   -    836241    836846     606 atypical TGGAGG 7 1
+   879   +    837475    837729     255 native TAAAGG 8 1
+   880   -    839393    839770     378 atypical TGATTG 8 1
+   881   +    840443    840796     354 native AGGATC 9 1
+   882   -    840827    841411     585 native AGGAGA 6 1
+   883   -    841497    842432     936 native AAGAGG 11 1
+   884   -    842453    843427     975 native AGAAGA 8 1
+   885   -    843578    846034    2457 native AGAAGG 10 1
+   886   -    846051    847997    1947 native TGGGGG 8 1
+   887   +    848094    848723     630 native AGGAGT 8 1
+   888   -    849173    850246    1074 native GGAAGG 8 1
+   889   -    850374    850841     468 native AGGAGA 8 1
+   890   -    850930    851448     519 native AGGGGG 9 1
+   891   +    851663    851878     216 atypical ATGAGG 10 1
+   892   +    851885    852430     546 native AAGAGG 14 1
+   893   -    852413   >852517     105 native
+   894   +    852759    852863     105 native AAGATG 2 1
+   895   +    852856    853506     651 atypical AGGAGA 6 1
+   896   -    853511   >853600      90 atypical
+   897   +    853996    854673     678 native TAAAGG 7 1
+   898   -    854827    855093     267 atypical AAGAGG 8 1
+   899   -    855249    856007     759 native AGAAGA 7 1
+   900   -    856159    856392     234 native AGTATG 9 1
+   901   -    856382    856525     144 native TGGCGG 5 1
+   902   -    856506    856706     201 native GGGTGG 11 1
+   903   -    856707    857315     609 native AGAAGG 7 1
+   904   -    857471    857989     519 native AGGAGA 6 1
+   905   +    858154    859494    1341 native AGAAGG 8 1
+   906   +    859793    860071     279 atypical ACGAGG 9 1
+   907   -    860328    860948     621 atypical GGAATG 9 1
+   908   -    861065    861703     639 atypical AAGGGC 8 1
+   909   -    862015    862563     549 atypical GTACGG 5 1
+   910   -    862628    863329     702 native AACAGT 10 1
+   911   -    863742    864059     318 native GTGAGG 14 1
+   912   -    864076    864315     240 native GAGAAG 13 1
+   913   -    864297    864662     366 native TGAATA 5 1
+   914   -    864877    865737     861 native AGGATA 6 1
+   915   -    865749    866489     741 native AGGTGA 5 1
+   916   -    866499    867173     675 native AGGAGA 7 1
+   917   -    867154    867813     660 native GGGAGG 9 1
+   918   +    868188    868403     216 native AAGAGG 8 1
+   919   +    868610    868714     105 native AGGAGC 6 1
+   920   +    868979    869587     609 native AAGAGG 6 1
+   921   +    869580    870239     660 native AGAAGC 7 1
+   922   +    870333    870434     102 native CAGATG 5 1
+   923   +    870550    871047     498 native AGCTGA 14 1
+   924   -    871264    871410     147 atypical AGGAGG 13 1
+   925   -    871465    872325     861 native AGTAGG 7 1
+   926   -    872334    872795     462 native ATGGGC 9 1
+   927   -    872886    873779     894 native GGCAGG 7 1
+   928   -    873896    874126     231 native AGGAGT 8 1
+   929   -    874221    875486    1266 native TGGTGG 5 1
+   930   -    875486    876349     864 native AGGAGA 6 1
+   931   -    876361    876813     453 atypical AGGAGT 9 1
+   932   -    876800    876976     177 atypical TAAAGA 7 1
+   933   +    877139    877768     630 native ATGAGG 6 1
+   934   +   <877978    878097     120 atypical
+   935   -    878293    878568     276 native AAAAGG 7 1
+   936   +    878746    879183     438 native AGGAGC 6 1
+   937   +    879185    879598     414 native AGGAGC 9 1
+   938   -    879634    880131     498 native AAGAGA 6 1
+   939   -    880290    880490     201 native TGAATA 7 1
+   940   -    881016    881711     696 atypical AAGGGA 6 1
+   941   +    881813    881986     174 native ATCAGA 14 1
+   942   -    882022    884760    2739 native GAAAGG 10 1
+   943   -    884878    885789     912 native AGCAGC 11 1
+   944   +    886094    887497    1404 native GGGAGA 7 1
+   945   -    887565    887996     432 native AAAATT 10 1
+   946   -    888105    888257     153 native TAGAGT 2 1
+   947   -    888290    889012     723 native AGGAGA 8 1
+   948   -    889170    889301     132 atypical ATGAGG 10 1
+   949   +    889607    889900     294 native GTGAAC 11 1
+   950   +    889921    890478     558 native CGAACC 13 1
+   951   -    890554    891444     891 native AAGAGG 8 1
+   952   -    891464    892108     645 native AAGAGA 7 1
+   953   +    892259    893092     834 atypical AGGACA 7 1
+   954   -    893349    893843     495 atypical CAAAGA 8 1
+   955   -    893818    894087     270 atypical ATGGGA 8 1
+   956   -    894089    894649     561 atypical GGGTTG 7 1
+   957   -    894663    895043     381 native TGGTGG 8 1
+   958   -    895021    895188     168 atypical AAGATA 8 1
+   959   +    895350    895508     159 atypical AAGAGG 8 1
+   960   +    895505    896080     576 native GGAATC 14 1
+   961   -    896141    897520    1380 native AGGAGG 8 1
+   962   -    897903    898106     204 native AAGCGG 11 1
+   963   -    898112    898636     525 native TAGAGG 8 1
+   964   -    898593    899588     996 native AAGGGA 7 1
+   965   +    899705    900895    1191 native TGAACG 9 1
+   966   -    900897    901136     240 native AAGAGA 9 1
+   967   -    901248    901799     552 native AAGAGG 8 1
+   968   -    901934    902095     162 native AGAACA 5 1
+   969   -    902307    902840     534 native AAGAGG 13 1
+   970   +    903174    903533     360 native ACTAGT 7 1
+   971   +    903598    903864     267 native TGATTG 8 1
+   972   +    904030    904611     582 native TTGCTG 14 1
+   973   -    904675    906135    1461 native ATGAGG 7 1
+   974   -    906220    907539    1320 native AAAAGG 8 1
+   975   -    907606    908853    1248 native AGGGGA 7 1
+   976   -    909300    909533     234 native TGGTAG 10 1
+   977   -    909533    910096     564 native TGGAGG 8 1
+   978   -    910371    910736     366 native GGGATG 8 1
+   979   +    910931    912877    1947 native AGGAGA 5 1
+   980   +    913111    914100     990 native TAAAGG 1 1
+   981   +    914362    916047    1686 native AGGAGG 4 1
+   982   +    916223    916414     192 atypical AGAAGA 8 1
+   983   +    916443   >917267     825 native GCGAGA 11 1
+   984   -    917643    919520    1878 atypical GAGGGA 8 1
+   985   -    919580    922066    2487 native AGGAGA 6 1
+   986   -    922230    922550     321 atypical GCGAAA 6 1
+   987   -    922551    925958    3408 atypical AGGTGA 6 1
+   988   -    926047    929583    3537 native AGGAAT 7 1
+   989   -    929670    933404    3735 native TAAAGG 6 1
+   990   -    933414    934013     600 native AGGAGG 6 1
+   991   -    934013    934618     606 atypical ATGAGG 7 1
+   992   -    934736    936703    1968 atypical GGGAGT 7 1
+   993   -    936895    937086     192 native TAAATA 5 1
+   994   -    937058    937186     129 native TAGAGA 4 1
+   995   -    937431    938183     753 native GGGAGA 4 1
+   996   -    938311    938940     630 native AGGAAG 8 1
+   997   -    938959    939510     552 native AGGAGT 7 1
+   998   -    939510    939740     231 native GGAAGG 5 1
+   999   -    939777    941663    1887 native AGGAGA 6 1
+  1000   -    941781    942131     351 native TGGTGG 4 1
+  1001   -    942082    942483     402 native ATAATT 7 1
+  1002   -    942574    943938    1365 native AGGAGG 5 1
+  1003   -    944070    944456     387 native AGGAGG 8 1
+  1004   -    944529    945461     933 atypical GGAAAG 8 1
+  1005   +    945545    946003     459 native GGAAGG 7 1
+  1006   -    946014    946253     240 native AGAAGC 9 1
+  1007   -    946551    947099     549 native TGGAGC 14 1
+  1008   -    947507    947890     384 native AGCAGT 6 1
+  1009   -    947920    948288     369 native CTGGGA 6 1
+  1010   -    948288    948857     570 native TGGAGG 11 1
+  1011   -    949018    949455     438 native AGGAAG 14 1
+  1012   +    949613    951184    1572 atypical AGTAGA 13 1
+  1013   -    951231    952892    1662 native AGGAGG 6 1
+  1014   -    952903    953628     726 native GAAAGG 9 1
+  1015   +    953824    955758    1935 native AGGAGG 8 1
+  1016   -    956166    956699     534 atypical TAAATT 7 1
+  1017   -    956939    958453    1515 native GCGAGG 7 1
+  1018   -    958942    960267    1326 atypical AGGATG 7 1
+  1019   -    960297    960905     609 native AGGAGA 7 1
+  1020   -    961076    961504     429 native GAGAGG 8 1
+  1021   -    961501    961935     435 native AGGAGG 8 1
+  1022   -    962090    962707     618 native TGGAGA 8 1
+  1023   -    962998    963210     213 native GGGAGG 10 1
+  1024   -    963296    965800    2505 native AGAAGG 6 1
+  1025   -    965816    966328     513 native AGAGGG 7 1
+  1026   -    966565    967200     636 native TAGAGG 9 1
+  1027   -    967230    967529     300 native AAGAGG 7 1
+  1028   -    968058    968558     501 atypical TAGAGG 6 1
+  1029   -    968941    969243     303 native TTAATG 5 1
+  1030   -    969287    969565     279 native AGAAGG 8 1
+  1031   -    969844    970374     531 atypical AATAGC 7 1
+  1032   -    970644   >970856     213 atypical
+  1033   -    971184    971462     279 native AGGAGA 7 1
+  1034   -    972063    972431     369 native CAAAGT 7 1
+  1035   -    972567    972926     360 native AGAAGG 8 1
+  1036   -    973317    973940     624 atypical AGTAGG 8 1
+  1037   -    973943    974704     762 atypical TGGAGG 7 1
+  1038   -    974720    975010     291 native TGGCCG 8 1
+  1039   -    975658    976131     474 native AAGAGG 5 1
+  1040   +    976234    976671     438 native AGGAGA 5 1
+  1041   +    977065    977775     711 atypical TGGTGA 7 1
+  1042   +    977864    979045    1182 native TGGAGT 8 1
+  1043   +    979111    979692     582 native AAGAGA 6 1
+  1044   -    979822    980142     321 native AAGTGG 13 1
+  1045   -    980139    980399     261 atypical TGATGG 1 1
+  1046   -    980662    981111     450 native AAGGGG 4 1
+  1047   -    981280    981669     390 atypical TGGTGG 5 1
+  1048   +   <981987    982991    1005 atypical
+  1049   -    983062    983439     378 native TAGGGG 5 1
+  1050   -    983452    984192     741 native AGGAGT 8 1
+  1051   -    984199    985782    1584 native GGCAGG 8 1
+  1052   -    985772    987376    1605 native TGGATG 9 1
+  1053   -    987550    987900     351 native GGAAGA 8 1
+  1054   -    988125    988325     201 native CGGAAA 11 1
+  1055   -    988545    988682     138 native ATGAGG 7 1
+  1056   -    988682    988894     213 atypical GAGAAA 14 1
+  1057   -    988900    990186    1287 native AGGTGG 8 1
+  1058   +    990345    991307     963 atypical AGGAAA 5 1
+  1059   +    991283    991660     378 native TTGATA 8 1
+  1060   -    991709    992914    1206 native TAAAGG 9 1
+  1061   -    992996    993553     558 native TGGGGG 10 1
+  1062   -    993553    994380     828 native TGGAGT 6 1
+  1063   -    994447    995544    1098 native AAAAGG 5 1
+  1064   -    995669    996283     615 native AGAATG 13 1
+  1065   +    996384    997016     633 native AAGAGG 5 1
+  1066   -    997245    997694     450 native GGAAGG 7 1
+  1067   -    997803    999575    1773 native GTTAGG 7 1
+  1068   +    999735    1000406     672 atypical TGGTTT 7 1
+  1069   -    1000389   >1000493     105 native
+  1070   +    1000900    1001352     453 native ACCATT 6 1
+  1071   +    1001402    1001671     270 native AGGAAA 7 1
+  1072   +    1001646    1002035     390 native TGGTGC 5 1
+  1073   -    1002102    1003361    1260 native AGGAGT 5 1
+  1074   -    1003378    1005474    2097 native GAAAGG 6 1
+  1075   +    1005701    1007173    1473 native TGGAGG 11 1
+  1076   -    1007190    1007483     294 native AAAAGT 13 1
+  1077   -    1007799    1008176     378 atypical AGGAAG 6 1
+  1078   -    1008178    1008561     384 atypical TGGGGG 7 1
+  1079   +    1008843    1009658     816 native AGGAGG 11 1
+  1080   -    1009639    1010343     705 atypical GGGTGT 14 1
+  1081   -    1010345    1010683     339 native CTCAGG 6 1
+  1082   -    1010943    1011164     222 native AGAAGT 10 1
+  1083   -    1011287    1011775     489 native AGGAGG 11 1
+  1084   -    1012043    1012237     195 atypical AAAAAG 7 1
+  1085   -    1012234    1012410     177 native TGGAGG 7 1
+  1086   -    1012648    1013547     900 native AGGACA 9 1
+  1087   -    1013698    1015101    1404 native AGGAGT 5 1
+  1088   -    1015112    1015636     525 native TTGAGG 6 1
+  1089   -    1015645    1016553     909 native GGAAGT 9 1
+  1090   -    1016553    1017905    1353 native GGGAGG 12 1
+  1091   -    1017892    1020006    2115 native AGGAGG 6 1
+  1092   -    1020078    1020926     849 native TGGAGG 7 1
+  1093   -    1020988    1021740     753 native GATAGG 7 1
+  1094   -    1021730    1022581     852 native AGAAGA 6 1
+  1095   -    1022605    1024197    1593 native ATGAGA 7 1
+  1096   -    1024245    1024475     231 atypical ATACGG 7 1
+  1097   -    1024478    1025320     843 native AGGGGT 8 1
+  1098   +    1025425    1026117     693 native AGAAGA 8 1
+  1099   -    1026154    1027353    1200 native TTGAGA 8 1
+  1100   +    1027445    1028332     888 native AGGAGG 8 1
+  1101   -    1028366    1029610    1245 native TGGAGG 7 1
+  1102   -    1029694    1029969     276 native AGGAGG 10 1
+  1103   -    1030139    1031446    1308 native AGGAGG 6 1
+  1104   -    1031515    1032726    1212 native GGGAGG 5 1
+  1105   -    1032798    1033472     675 native AAGATC 14 1
+  1106   -    1033525    1033992     468 native TGGAGG 9 1
+  1107   -    1034098    1034787     690 native AGAAAG 7 1
+  1108   -    1035010    1035726     717 native AAGAGG 8 1
+  1109   -    1035727    1036320     594 native AAGAAA 8 1
+  1110   -    1036310    1037050     741 native CGAAGA 5 1
+  1111   -    1037043    1037399     357 atypical AGGTGA 6 1
+  1112   -    1037410    1038315     906 native AGAAGA 8 1
+  1113   -    1038302    1039195     894 native AGGAGA 7 1
+  1114   -    1039326    1041095    1770 native TGGAGA 14 1
+  1115   -    1041129    1042091     963 native ATGAGG 7 1
+  1116   -    1042257    1045364    3108 native AGGTGG 7 1
+  1117   +    1045481    1045699     219 native AGAAGG 7 1
+  1118   -    1045756    1047312    1557 native AGGAAA 7 1
+  1119   -    1047372    1047560     189 native AGGAGA 8 1
+  1120   -    1047662    1047913     252 native AGAAAG 9 1
+  1121   -    1047920    1048714     795 native GAAAGG 9 1
+  1122   -    1048711    1049649     939 native AATAGG 6 1
+  1123   -    1049668    1051587    1920 native TAGAGA 5 1
+  1124   -    1051608    1052912    1305 native AGGAAG 8 1
+  1125   -    1052991    1054793    1803 native AGGATG 7 1
+  1126   +    1054939    1055310     372 native TAGAGG 7 1
+  1127   +    1055650    1057035    1386 native GGGATG 5 1
+  1128   -    1057096    1057929     834 native ATGATG 7 1
+  1129   -    1057920    1058048     129 native TAGAGG 9 1
+  1130   -    1058112    1058924     813 atypical TTGAGA 7 1
+  1131   -    1058971    1059807     837 native TAGAGG 9 1
+  1132   -    1060617    1061810    1194 native AAAAGG 10 1
+  1133   +    1062257    1063468    1212 native GAAAGG 10 1
+  1134   -    1063451    1065304    1854 native TAAAGG 10 1
+  1135   -    1065310    1066596    1287 native AAAAGG 8 1
+  1136   -    1066904    1067341     438 native AAGAGG 11 1
+  1137   -    1067341    1069581    2241 native GGGATG 6 1
+  1138   -    1069596    1070039     444 atypical GCAAGG 14 1
+  1139   -    1070014    1070961     948 native AGGAGA 8 1
+  1140   +    1071022    1071531     510 native TAAAGG 8 1
+  1141   +    1072314    1072679     366 atypical AGCAAC 13 1
+  1142   +    1072676    1073218     543 native AACAGA 1 1
+  1143   +    1073476    1073856     381 native AGGCTC 7 1
+  1144   +    1074252    1074956     705 native ATGATG 5 1
+  1145   -    1075358    1075864     507 native ATGAGG 7 1
+  1146   -    1075967    1077313    1347 native AAGAAA 8 1
+  1147   +    1077483    1078421     939 native AGGACG 7 1
+  1148   +    1078439    1078771     333 native AGGGGG 6 1
+  1149   +    1078825    1078935     111 native TAGATG 8 1
+  1150   -    1079026    1079406     381 native TAGAGG 5 1
+  1151   +    1079538    1080095     558 native CGGAGA 6 1
+  1152   +    1080108    1081820    1713 native AGAAAG 8 1
+  1153   +    1081813    1082646     834 native GAAAGG 10 1
+  1154   -    1082668    1082826     159 native GGAAGG 7 1
+  1155   -    1082856    1083326     471 native GAAAGA 8 1
+  1156   +    1083569   >1083661      93 atypical AGAAGA 8 1
+  1157   +   <1083764    1083967     204 native
+  1158   -    1084213    1084728     516 atypical AGGGGG 9 1
+  1159   -    1084756    1086360    1605 native TAGTTT 8 1
+  1160   -    1086364    1086456      93 atypical GGGAGT 9 1
+  1161   -    1087201    1088742    1542 native AGAAGG 8 1
+  1162   -    1088732    1089646     915 native TGGAGG 8 1
+  1163   -    1089647    1089943     297 native GAAAGG 8 1
+  1164   -    1089930    1090982    1053 native AGGTGG 7 1
+  1165   -    1091073    1091864     792 native ATAAGG 6 1
+  1166   -    1091942    1093408    1467 native AGGGGA 5 1
+  1167   -    1093729    1095042    1314 native AGAAGG 6 1
+  1168   -    1095142    1095447     306 native TCCAGA 7 1
+  1169   -    1095399    1096892    1494 native AACAGG 9 1
+  1170   -    1097383    1098606    1224 native ATCGGG 9 1
+  1171   -    1099197    1100123     927 native GAAAGG 14 1
+  1172   -    1100286    1100459     174 native CAAAGG 7 1
+  1173   -    1100738    1102315    1578 native AGTAGG 9 1
+  1174   +   <1102946    1103050     105 native
+  1175   -    1103066    1104442    1377 native AAGGGA 7 1
+  1176   -    1104454    1105857    1404 native AGGAGG 6 1
+  1177   +    1106044    1106268     225 atypical AGGAGC 6 1
+  1178   -    1106343    1107044     702 native AAGGGG 7 1
+  1179   -    1107037    1108098    1062 native GGGAGG 7 1
+  1180   -    1108111    1108971     861 native GAGGGG 8 1
+  1181   -    1109322    1111739    2418 native AGGAAA 5 1
+  1182   -    1111839    1112021     183 native AAAAGT 5 1
+  1183   -    1112034    1112237     204 native AGGAGA 5 1
+  1184   -    1112357    1112875     519 native ATGAGA 6 1
+  1185   -    1112890    1113846     957 native GAAAGG 9 1
+  1186   -    1113988    1115376    1389 native TGGAGT 6 1
+  1187   +    1115874    1116425     552 atypical AGGAGT 6 1
+  1188   +    1116575    1116835     261 native AAGAGA 6 1
+  1189   +    1116971    1117552     582 native AGAAGA 14 1
+  1190   +    1117648    1118223     576 native AGGAAT 11 1
+  1191   -    1118271    1119104     834 native CAAAGG 9 1
+  1192   +    1119327    1120613    1287 native AGGAGG 7 1
+  1193   -    1120689    1121333     645 native ATGAGG 5 1
+  1194   -    1121445    1121933     489 native AGGAGG 7 1
+  1195   +    1122240    1122962     723 native CAGATG 7 1
+  1196   +    1122972    1124090    1119 native TAGAGG 6 1
+  1197   +    1124050    1124445     396 native TGAAAG 2 1
+  1198   +    1124547    1124984     438 native AGAAGA 7 1
+  1199   -    1125231    1125524     294 atypical GTGAGG 8 1
+  1200   -    1125758    1127110    1353 native AGGGGG 8 1
+  1201   -    1127317    1127826     510 native GAGAGA 6 1
+  1202   -    1128412    1128807     396 atypical GAGAGG 8 1
+  1203   +    1128903    1128995      93 atypical TAAAGA 5 1
+  1204   -    1129079    1129783     705 native TGGAAG 7 1
+  1205   +    1130124    1131551    1428 native AGGAAG 9 1
+  1206   +    1131560    1132114     555 native AGTAGG 7 1
+  1207   -    1132186    1133586    1401 native AAGAGG 10 1
+  1208   -    1133669    1134442     774 native GGGAGA 7 1
+  1209   -    1134471    1135214     744 native GGGAGA 8 1
+  1210   -    1135456    1136397     942 native GAGAAA 13 1
+  1211   -    1136397    1136591     195 native GGGAAG 8 1
+  1212   +    1136719    1136982     264 native AGAAGG 7 1
+  1213   +    1137043   >1137201     159 atypical TAGGTC 7 1
+  1214   +   <1137303    1137959     657 native
+  1215   -    1138026    1138388     363 native AGGAGA 9 1
+  1216   -    1138416    1138751     336 native AGGGGG 10 1
+  1217   +    1139162    1139779     618 native TGAACA 7 1
+  1218   +    1139865    1141310    1446 native GAGAGG 9 1
+  1219   -    1141386    1141673     288 native GGGACA 8 1
+  1220   -    1141714    1141896     183 native AACAGG 4 1
+  1221   -    1141930    1142145     216 atypical GAAAGG 8 1
+  1222   +    1142284    1142622     339 native GAAAGG 8 1
+  1223   +    1142659    1143213     555 native AAGAAC 14 1
+  1224   -    1143275    1143790     516 native TAGAGG 7 1
+  1225   -    1143801    1144070     270 atypical AAGGGG 7 1
+  1226   +    1144397    1146007    1611 native AAGAGG 6 1
+  1227   -    1146052    1146612     561 native AAATGG 1 1
+  1228   -    1146684    1147784    1101 native AGGGGG 9 1
+  1229   -    1147888    1148946    1059 native AAAAGG 10 1
+  1230   -    1148949    1150124    1176 native GGGAGG 7 1
+  1231   -    1150145    1150924     780 native GAAAGG 9 1
+  1232   -    1150917    1151852     936 native ATGGGG 7 1
+  1233   -    1151854    1153008    1155 native AGAAAG 8 1
+  1234   -    1153011    1153721     711 native AAGAGG 7 1
+  1235   -    1153741    1155057    1317 native TAGGGG 6 1
+  1236   +    1155528    1156901    1374 native AAGGGG 8 1
+  1237   +    1156894    1157898    1005 native AGGAAG 6 1
+  1238   -    1157939    1159447    1509 native TAGAGG 7 1
+  1239   -    1159571    1160161     591 native GGTAGG 5 1
+  1240   -    1160151    1161425    1275 native GGGAGG 7 1
+  1241   -    1161555    1162886    1332 native TGGAGG 10 1
+  1242   -    1163031    1164221    1191 native AGGAGG 9 1
+  1243   -    1164411    1165244     834 atypical AGAAAG 7 1
+  1244   -    1165247    1167019    1773 native AAAAGG 7 1
+  1245   -    1167176    1167445     270 native AGGTGA 7 1
+  1246   +    1167989    1168246     258 native TGGAGG 8 1
+  1247   -    1168307    1169293     987 native AGCGGG 7 1
+  1248   -    1169290    1171578    2289 native AGGAGA 8 1
+  1249   -    1171547    1172242     696 native TAGAGG 9 1
+  1250   -    1172320    1173354    1035 native AGGAAG 7 1
+  1251   -    1173338    1173832     495 native GAAAGG 7 1
+  1252   -    1173835    1174383     549 native ATGAGG 10 1
+  1253   -    1174380    1174724     345 atypical AGGATG 10 1
+  1254   -    1174721    1175902    1182 native AAGGGG 8 1
+  1255   -    1175998    1177842    1845 native GGGAGG 7 1
+  1256   +    1178094    1178648     555 native AGGAGT 7 1
+  1257   +    1178999    1179220     222 native AGGAGA 7 1
+  1258   +    1179227    1180906    1680 native AGAAGT 8 1
+  1259   +    1180936    1181172     237 native GGGAGT 8 1
+  1260   +    1181293    1181898     606 native AACAGA 7 1
+  1261   -    1181966   >1182055      90 atypical
+  1262   -    1182366    1184717    2352 native AAAAGA 7 1
+  1263   -    1184717    1185361     645 native AGACGG 10 1
+  1264   -    1185361    1186020     660 native TGGGGG 6 1
+  1265   -    1186113    1187240    1128 native AGGATT 9 1
+  1266   -    1187248    1187589     342 native GTGAGG 6 1
+  1267   -    1187637    1188794    1158 native AAGATG 7 1
+  1268   -    1188796    1189491     696 native GCGAGG 6 1
+  1269   -    1189509    1189817     309 atypical GAAAGT 11 1
+  1270   -    1189820    1190389     570 native AGGAGG 10 1
+  1271   -    1190409    1190612     204 native AGAAGG 12 1
+  1272   -    1190612    1193395    2784 native GAAAGG 9 1
+  1273   -    1193618    1194415     798 native AGGTGG 10 1
+  1274   -    1194391    1195191     801 native AGGATG 8 1
+  1275   -    1195191    1195493     303 native AGAAAG 13 1
+  1276   -    1195493    1195933     441 native TGGAGG 9 1
+  1277   -    1195951    1197309    1359 native AGGTGG 8 1
+  1278   -    1197324    1198682    1359 native TGGGGG 7 1
+  1279   -    1198745    1199602     858 atypical AGGAGG 12 1
+  1280   -    1199619    1200725    1107 native TGAAGA 9 1
+  1281   -    1200727    1202106    1380 native GGGATA 10 1
+  1282   -    1202116    1203084     969 native AGGAGT 8 1
+  1283   -    1203091    1205250    2160 native AGGACA 8 1
+  1284   -    1205250    1205612     363 native AAGAGG 8 1
+  1285   -    1205626    1206618     993 native AGAAGA 14 1
+  1286   -    1206578    1207003     426 atypical AGGGGG 13 1
+  1287   -    1207189   >1207299     111 native
+  1288   -    1207699    1208031     333 native TGGAGG 8 1
+  1289   +    1208126    1208260     135 native AGGAGG 7 1
+  1290   -    1208300    1208839     540 native AGGTGG 7 1
+  1291   -    1208839    1209690     852 native AGGATC 8 1
+  1292   -    1209736    1210740    1005 native AGGAGA 7 1
+  1293   -    1210836    1211459     624 native GGGAGA 6 1
+  1294   -    1211498    1212175     678 native GAAAGG 8 1
+  1295   -    1212165    1213439    1275 native AAGAGA 8 1
+  1296   -    1213440    1216079    2640 native TGGAGG 7 1
+  1297   -    1216384    1216926     543 atypical TGGAGA 4 1
+  1298   -    1217220    1217789     570 native AGTAGG 7 1
+  1299   -    1217820    1218356     537 native TGCAGG 8 1
+  1300   -    1218412    1218885     474 native AAAAGG 9 1
+  1301   -    1218909    1219835     927 native GTCAGG 8 1
+  1302   -    1219832    1220248     417 native TAGTTA 7 1
+  1303   -    1220416    1221513    1098 native AGAAGG 9 1
+  1304   -    1221846   >1221953     108 native
+  1305   +   <1222054    1222146      93 native
+  1306   -    1222302    1222694     393 native AAGAAG 6 1
+  1307   -    1222706    1222963     258 atypical TAATTG 7 1
+  1308   -    1223127    1223837     711 native AAAAGG 9 1
+  1309   -    1223827    1224705     879 atypical AAAAGG 8 1
+  1310   -    1224762    1225979    1218 native GGGAGA 6 1
+  1311   -    1225979    1227139    1161 native GGGAGT 7 1
+  1312   -    1227230    1228939    1710 native TGGAGG 7 1
+  1313   +    1229222    1229833     612 native TGGAGG 6 1
+  1314   +    1229923    1230390     468 native GAAAGG 8 1
+  1315   +    1230390    1231703    1314 native TGGTGA 6 1
+  1316   +    1232008    1232289     282 native TGGAGT 8 1
+  1317   +    1232357    1232821     465 native AAGAGG 10 1
+  1318   -    1232887    1234080    1194 native TAGTGA 7 1
+  1319   -    1234102    1234329     228 native AGGAGG 4 1
+  1320   -    1234645    1235634     990 native TGGAGG 6 1
+  1321   -    1235718    1235948     231 atypical TAAAGG 8 1
+  1322   -    1236012    1236452     441 native AGGGTG 7 1
+  1323   -    1236464    1237903    1440 native AGGAGG 8 1
+  1324   -    1237926    1238888     963 native AGGAGG 6 1
+  1325   -    1238899    1240410    1512 native AAGAGG 8 1
+  1326   -    1240425    1240973     549 native AAGGGG 11 1
+  1327   -    1240973    1241482     510 native AGAAGG 7 1
+  1328   -    1241534    1241758     225 native TGGAGG 9 1
+  1329   -    1241778    1242491     714 native GGGAGG 10 1
+  1330   -    1242615    1243244     630 native AGGAGG 5 1
+  1331   -    1243328    1244329    1002 native AGGTGG 14 1
+  1332   -    1244335    1245177     843 native AGGAGT 12 1
+  1333   -    1245170    1246258    1089 native GAGAGG 11 1
+  1334   -    1246275    1246874     600 native GGGAGG 8 1
+  1335   +    1247025    1248377    1353 native TGAGGG 8 1
+  1336   +    1248695    1249708    1014 native TGGATG 7 1
+  1337   -    1249805    1250227     423 native TGGTAG 5 1
+  1338   -    1250208    1251005     798 native CGATTG 8 1
+  1339   -    1251045    1251185     141 native TAGGGA 5 1
+  1340   -    1251313    1252653    1341 native AGGAAG 7 1
+  1341   -    1252729    1253343     615 native AAGAGG 6 1
+  1342   +    1253486    1255663    2178 native AGGAGA 5 1
+  1343   -    1255713    1257170    1458 native CGCAGG 7 1
+  1344   -    1257170    1257892     723 native TAGGGA 6 1
+  1345   -    1257892    1258284     393 native AGGAGT 8 1
+  1346   -    1258319    1259284     966 native GTGAGG 8 1
+  1347   -    1259377    1260534    1158 native TAGTGA 5 1
+  1348   -    1260543    1260809     267 native GAAAGT 9 1
+  1349   -    1260918    1261274     357 native TGGAAA 6 1
+  1350   -    1261926    1263110    1185 native AAGAGG 11 1
+  1351   -    1263157    1264158    1002 native TGGAGG 6 1
+  1352   -    1264328    1264828     501 atypical CTAAGG 5 1
+  1353   -    1264836    1265105     270 native GGGACG 9 1
+  1354   -    1265102    1265533     432 native AAGAGT 13 1
+  1355   -    1265502    1265852     351 native AGGAGA 6 1
+  1356   -    1265864    1266832     969 atypical AGAAGG 5 1
+  1357   -    1266834    1267808     975 native AGGAGG 6 1
+  1358   -    1267956    1268684     729 native AGAAGG 6 1
+  1359   -    1268775    1269290     516 native AAGGGA 7 1
+  1360   +    1269931    1271556    1626 native AGAATG 8 1
+  1361   -    1271605    1272561     957 native AGGAGT 7 1
+  1362   -    1272714    1274189    1476 native AAGAGA 7 1
+  1363   -    1274235    1276256    2022 native AGGGGG 8 1
+  1364   -    1276386    1277219     834 native GTGAGG 7 1
+  1365   +    1277436    1278590    1155 native GCGAGG 8 1
+  1366   -    1278595    1279062     468 native AGGATA 9 1
+  1367   -    1279066    1279665     600 atypical ACGATA 8 1
+  1368   -    1279805    1280620     816 native GTAAGG 7 1
+  1369   -    1280630    1281445     816 native GGGAGG 7 1
+  1370   -    1281540    1282892    1353 native GAAAGG 11 1
+  1371   -    1282923    1283882     960 native GGGGTG 7 1
+  1372   -    1283879    1284721     843 native GAAAGG 8 1
+  1373   -    1284779    1285852    1074 native AGGAGG 9 1
+  1374   -    1285849    1286556     708 native AAGTGG 7 1
+  1375   -    1286661    1287473     813 native AGGGGG 6 1
+  1376   -    1287463    1288560    1098 native GTGGGG 6 1
+  1377   -    1288626    1289522     897 native AGGAGG 7 1
+  1378   +    1289620    1290153     534 native AGGAGA 5 1
+  1379   -    1290160    1290660     501 native AGGATG 7 1
+  1380   -    1290660    1291649     990 native AAGAGG 7 1
+  1381   -    1291661    1292359     699 native AAGAGG 9 1
+  1382   +    1292428    1293309     882 native GGGAGG 7 1
+  1383   +    1293316    1293837     522 native CAGAGG 9 1
+  1384   -    1294168    1294926     759 native AGGAGA 10 1
+  1385   -    1294952    1296163    1212 native CGGAGG 6 1
+  1386   -    1296276    1297292    1017 native AGGAGG 11 1
+  1387   -    1297347    1298261     915 atypical GGGCGG 6 1
+  1388   -    1298742    1299065     324 native TGGTGA 7 1
+  1389   -    1299011    1299478     468 native AGCTGG 7 1
+  1390   -    1299478    1300167     690 native TGGAAG 4 1
+  1391   +    1300375    1301808    1434 native AGGAGT 6 1
+  1392   +    1301901    1302716     816 native AGGTGG 6 1
+  1393   -    1302771    1304396    1626 native AGGAGG 6 1
+  1394   +    1304613    1305194     582 native AGGAGG 7 1
+  1395   -    1305246    1306181     936 native TGAAGG 6 1
+  1396   -    1306174    1307217    1044 native AGTAGG 9 1
+  1397   -    1307228    1308103     876 native AGGAGG 7 1
+  1398   -    1308193    1308735     543 native AGGAGG 7 1
+  1399   -    1308800    1311640    2841 native AGGGGA 9 1
+  1400   -    1311630    1313678    2049 native AGGAGG 5 1
+  1401   -    1313781    1315505    1725 native TAGAGG 5 1
+  1402   -    1315613    1317388    1776 native AGAAGC 7 1
+  1403   -    1317388    1319781    2394 native AGGAAG 5 1
+  1404   -    1319792    1321222    1431 native TAGAGG 7 1
+  1405   -    1321226    1322374    1149 native AGGGGT 8 1
+  1406   -    1322364    1323509    1146 native GGGAAG 8 1
+  1407   -    1323515    1325431    1917 native AAGAGG 5 1
+  1408   +    1325740   >1325847     108 native AAATGG 5 1
+  1409   -    1326132    1327151    1020 native GAGAGA 4 1
+  1410   -    1327193    1328032     840 atypical ATAAGG 9 1
+  1411   -    1328025    1328993     969 native GGGAGG 8 1
+  1412   -    1329010    1329288     279 atypical CGGAGT 9 1
+  1413   -    1329296    1330294     999 native ATGAAG 5 1
+  1414   -    1330480    1332879    2400 native ATAAGG 9 1
+  1415   -    1333050    1333595     546 native AGGAGA 7 1
+  1416   -    1333677    1334372     696 atypical AGGAGA 7 1
+  1417   -    1334369    1335655    1287 native TAGAGG 8 1
+  1418   +    1335701    1336363     663 native AAGAGG 9 1
+  1419   -    1336390    1337547    1158 native GGAAAG 9 1
+  1420   -    1338036    1339667    1632 native AGGCGA 8 1
+  1421   -    1339786    1340883    1098 native AGGAGG 5 1
+  1422   -    1341067    1341627     561 native AGGAGA 11 1
+  1423   -    1341650    1342768    1119 native TGAAGG 7 1
+  1424   -    1342836    1343564     729 native AGGAGA 10 1
+  1425   -    1343565    1344821    1257 native GAAAGC 11 1
+  1426   -    1344818    1346026    1209 native TGGAAA 8 1
+  1427   -    1346019    1348436    2418 native AGGGTG 5 1
+  1428   -    1348457    1348846     390 native AGGAAG 9 1
+  1429   -    1348846    1349406     561 native AAGGGG 7 1
+  1430   -    1349458    1350657    1200 native AGGACA 5 1
+  1431   -    1350674    1351054     381 native AGGAGA 9 1
+  1432   -    1351125    1353881    2757 native AGAAGG 9 1
+  1433   +    1354034    1355062    1029 native CGGAGG 6 1
+  1434   +    1355168    1355587     420 native AGAAAG 7 1
+  1435   +    1355644    1355859     216 native GCTATG 8 1
+  1436   -    1355894    1357669    1776 native AAGAGG 8 1
+  1437   -    1357788    1358684     897 native AGGACA 9 1
+  1438   -    1358668    1359480     813 native GCAAGG 7 1
+  1439   -    1359477    1360109     633 native AGGATG 7 1
+  1440   +    1360233    1360841     609 native TGGAGG 10 1
+  1441   +    1360927    1361544     618 native AAGGGG 8 1
+  1442   -    1361553    1362416     864 atypical TTGCGT 8 1
+  1443   -    1362479    1363219     741 native GGGAGG 9 1
+  1444   -    1363311    1363709     399 native AGGAGC 10 1
+  1445   -    1363941    1365674    1734 native AGAAGG 12 1
+  1446   -    1365674    1365940     267 native AGGAGA 8 1
+  1447   -    1366054    1366236     183 atypical GCGTGG 8 1
+  1448   +    1366576    1368630    2055 native AGGAAA 10 1
+  1449   +    1368780    1369061     282 native AGGTGA 6 1
+  1450   -    1369104   >1369241     138 atypical
+  1451   +   <1369344    1369433      90 native
+  1452   +    1369536    1370813    1278 native TAAAGG 8 1
+  1453   -    1370865    1372436    1572 native AAGAAG 13 1
+  1454   -    1372436    1373308     873 native AAGAGA 8 1
+  1455   +    1373414    1373875     462 native AGGAGG 8 1
+  1456   -    1373877    1374359     483 native AGGAGA 4 1
+  1457   -    1374369    1375181     813 native GCGAGG 8 1
+  1458   +    1375304    1376686    1383 native GAAAGA 8 1
+  1459   -   <1377476    1377592     117 native AGGAGT 11 1
+  1460   -    1377742    1378041     300 native TGCGGG 9 1
+  1461   -    1378797    1379069     273 native TGGCGT 7 1
+  1462   -    1379166    1379393     228 atypical CGGCAG 5 1
+  1463   +   <1379911    1380015     105 native
+  1464   -    1380008    1380232     225 native GGAAGA 6 1
+  1465   +    1380314    1380598     285 atypical ATTATA 7 1
+  1466   -    1380637    1381800    1164 native GAGAGG 7 1
+  1467   -    1381800    1383011    1212 native TCGAAA 7 1
+  1468   -    1383011    1384171    1161 native TGGAGA 9 1
+  1469   -    1384283    1385182     900 native AGAAAG 9 1
+  1470   -    1385244    1386167     924 native TGGATG 13 1
+  1471   -    1386176    1387003     828 native AGGAGA 7 1
+  1472   +    1387147    1387593     447 native GAAAGG 11 1
+  1473   +    1387586    1388125     540 native TGGCTG 9 1
+  1474   -    1388149    1389291    1143 native CGGAGG 7 1
+  1475   +    1389399    1389587     189 native TGGATA 5 1
+  1476   -    1389755    1391083    1329 native TGAAGG 7 1
+  1477   -    1391080    1392312    1233 native TGGACA 12 1
+  1478   -    1392312    1393016     705 native GGGAGG 7 1
+  1479   +    1393119    1394429    1311 native AGGATG 8 1
+  1480   -    1394460    1395029     570 native GAGGGG 8 1
+  1481   -    1395137    1396498    1362 native AGGTGA 7 1
+  1482   -    1396589    1396846     258 native TAGAAA 4 1
+  1483   -    1396868    1397002     135 native AGTAGG 6 1
+  1484   -    1397020    1397163     144 atypical AGAAGG 11 1
+  1485   -    1397231    1397503     273 atypical AGGAGA 5 1
+  1486   -    1397629    1398114     486 native TAGAGG 8 1
+  1487   -    1398134    1398631     498 native AGGATG 9 1
+  1488   -    1398618    1399427     810 native AAGGGC 10 1
+  1489   -    1399492    1401372    1881 native AGGGGT 8 1
+  1490   +    1401880    1402455     576 native ATAAGG 6 1
+  1491   -    1402859    1403707     849 native TAGGGG 7 1
+  1492   -    1403775    1406171    2397 native AGGAGA 4 1
+  1493   +    1406468    1407232     765 native TGGAGA 7 1
+  1494   +    1407238   >1407546     309 atypical AGGAGT 7 1
+  1495   +   <1407650    1407790     141 native
+  1496   -    1407877    1408200     324 native AGGAGC 9 1
+  1497   -    1408200    1409603    1404 native ACGAGG 9 1
+  1498   -    1409596    1410057     462 native AGGAGT 9 1
+  1499   -    1410044    1411282    1239 native AGAAGA 7 1
+  1500   -    1411257    1412534    1278 native AGGAGG 7 1
+  1501   -    1412546    1413340     795 native GAAAGG 8 1
+  1502   -    1413427   >1413531     105 native
+  1503   +   <1413636    1413776     141 native
+  1504   +    1413910    1414728     819 native AAGAGG 9 1
+  1505   -    1415039    1415764     726 native AGGAAG 6 1
+  1506   -    1415764    1416690     927 native AAGAGG 8 1
+  1507   -    1416808    1418823    2016 native TAGAGG 10 1
+  1508   -    1418884    1419576     693 native TGGAGG 10 1
+  1509   -    1419576    1420502     927 native AGAAGG 7 1
+  1510   -    1420680    1421483     804 native AGCAGG 8 1
+  1511   +    1421637    1422938    1302 native GAAAGG 8 1
+  1512   +    1423085    1423204     120 native AGAATG 7 1
+  1513   -    1423450    1424205     756 native CAGTAG 5 1
+  1514   -    1425226    1426143     918 native TGGGTA 6 1
+  1515   -    1426219    1426872     654 native AAGGGG 7 1
+  1516   -    1426887    1427528     642 native AGGGGG 10 1
+  1517   -    1427528    1428346     819 native CTAAGG 8 1
+  1518   -    1428357    1429097     741 native AAAGGG 8 1
+  1519   -    1429849    1431177    1329 native AGGAGG 8 1
+  1520   +    1431391    1432026     636 native TAAAGG 5 1
+  1521   -    1432057    1433286    1230 native TTACTA 7 1
+  1522   -    1433353    1433448      96 native AGAAGG 7 1
+  1523   -    1433544    1434122     579 native AGGAGT 7 1
+  1524   -    1434290    1436059    1770 native AGGAGG 6 1
+  1525   -    1436059    1437789    1731 native AGGAGC 5 1
+  1526   -    1437768    1438241     474 atypical TAGAGA 8 1
+  1527   +    1438371    1439189     819 native GGGAGT 6 1
+  1528   -    1439232    1439900     669 native AGGAAG 6 1
+  1529   -    1439913    1440374     462 atypical TCGCGA 8 1
+  1530   -    1440498    1440704     207 native GGGAAA 7 1
+  1531   -    1440861    1442483    1623 native GTGAGG 8 1
+  1532   -    1442587    1443669    1083 native AGGAGA 5 1
+  1533   +    1443796    1445001    1206 native GTAAGG 9 1
+  1534   -    1445025    1446494    1470 native ACGAGG 8 1
+  1535   +    1446786    1447316     531 native GAAAGG 6 1
+  1536   +    1447329    1448657    1329 native AGGAGT 8 1
+  1537   -    1448712    1449527     816 native AAGATC 14 1
+  1538   -    1450026    1450784     759 native AGAATA 8 1
+  1539   -    1450866    1450994     129 native AGGAGG 8 1
+  1540   +    1451380    1452237     858 atypical AAGTGC 7 1
+  1541   -    1452302    1452772     471 native AAAAGA 7 1
+  1542   -    1453240    1455012    1773 native AAGAAG 8 1
+  1543   +    1455122    1455634     513 native AGGATG 7 1
+  1544   -    1455642    1457108    1467 native AAGGGA 7 1
+  1545   -    1457604    1458104     501 native AAGAAG 6 1
+  1546   -    1459446    1459874     429 atypical CGGAGT 8 1
+  1547   +    1460089    1460286     198 native AGGAGG 12 1
+  1548   -    1460775    1461083     309 atypical TGAAGG 7 1
+  1549   -    1461484    1462836    1353 native AGGCTG 7 1
+  1550   +    1463199    1464575    1377 native TGGAGG 7 1
+  1551   -    1464612    1464926     315 native TTCAGA 7 1
+  1552   +    1465134    1465838     705 native GAGTGA 8 1
+  1553   -    1465883    1466575     693 atypical TTTAGG 6 1
+  1554   -    1466642    1467562     921 native TTAAGG 8 1
+  1555   -    1467587    1469017    1431 native TGGAGG 9 1
+  1556   -    1469022    1470461    1440 native ATGAGG 7 1
+  1557   -    1470461    1470769     309 native AGGAGG 9 1
+  1558   -    1470783    1471931    1149 native TAAAGG 9 1
+  1559   -    1471944    1473950    2007 native AGGAGG 5 1
+  1560   -    1473991    1476237    2247 native AAGGGG 6 1
+  1561   -    1476323    1476961     639 native AGGAAA 8 1
+  1562   -    1477199    1477669     471 native GGGCGA 8 1
+  1563   -    1477657    1478355     699 native ACGAGG 6 1
+  1564   -    1478358    1479788    1431 native TCGAGG 8 1
+  1565   -    1479793    1480947    1155 native AGGAAG 8 1
+  1566   -    1481035    1483704    2670 native AGGATG 7 1
+  1567   -    1483896    1484726     831 native AGAAGC 8 1
+  1568   -    1484723    1486237    1515 native TGGCTG 7 1
+  1569   -    1486286    1487386    1101 native GAGAGG 14 1
+  1570   -    1487394    1488122     729 native GTGAGG 9 1
+  1571   +    1488645    1489031     387 native AAAAGG 7 1
+  1572   -    1489095    1489796     702 native TGGGGG 7 1
+  1573   -    1489885    1491000    1116 native GAAAGG 7 1
+  1574   -    1491390    1491941     552 native AAGAGG 7 1
+  1575   +    1492202   >1492372     171 native AAATGG 5 1
+  1576   +   <1492475    1492651     177 native
+  1577   -    1492710    1493498     789 native CAGCGG 5 1
+  1578   -    1493528    1493752     225 native TGAGGG 7 1
+  1579   -    1494264    1494794     531 native AGGATG 9 1
+  1580   -    1494739    1495707     969 native AGAAGG 7 1
+  1581   -    1495964    1496659     696 native GTGGGA 6 1
+  1582   -    1496711    1497370     660 native ACGAGG 8 1
+  1583   -    1497437    1498024     588 native TGAAAC 8 1
+  1584   -    1498025    1498603     579 native CGGAGA 5 1
+  1585   -    1498673    1499731    1059 native GTGAGG 6 1
+  1586   -    1499869    1500534     666 native AGGAGA 8 1
+  1587   +    1500916    1501032     117 native GCGAGG 6 1
+  1588   -    1501665    1502540     876 native AGAAGG 7 1
+  1589   -    1502575    1502967     393 native AAGAGG 7 1
+  1590   +    1503078    1503278     201 native AAGAAG 8 1
+  1591   +    1503377    1503775     399 native AGGAAG 8 1
+  1592   -    1504506    1505660    1155 native AGGAGA 6 1
+  1593   -    1505677    1506390     714 native AGAAGG 7 1
+  1594   -    1506872    1506982     111 atypical TGGAGG 9 1
+  1595   -    1507013    1507474     462 native CAAAGA 5 1
+  1596   -    1507490    1507612     123 native AAGTGG 7 1
+  1597   +    1507746    1508495     750 native AGAAGG 8 1
+  1598   -    1508513    1508884     372 native AAGAGA 6 1
+  1599   -    1508917    1511148    2232 native AAGGGT 7 1
+  1600   -    1511160    1512485    1326 native GGGATG 5 1
+  1601   -    1512490    1514328    1839 native AGGATG 6 1
+  1602   +    1514549    1516207    1659 native GAGAGG 13 1
+  1603   -    1516291    1516704     414 native TGGGTG 7 1
+  1604   -    1516852    1517079     228 native AGGAAG 9 1
+  1605   -    1517166    1517780     615 native GAAAGG 8 1
+  1606   -    1517883    1519067    1185 native AGGAGA 8 1
+  1607   -    1519399    1519869     471 native TCACTG 6 1
+  1608   -    1519901    1520527     627 native AAAACC 8 1
+  1609   -    1520481    1520750     270 native ATGAGG 5 1
+  1610   +    1520898    1521542     645 native TAAATG 9 1
+  1611   -    1521677    1521844     168 native AGGTGA 7 1
+  1612   -    1521918    1523729    1812 native GGGAGA 7 1
+  1613   -    1523924    1526548    2625 native TAGAGG 10 1
+  1614   +    1526861    1528234    1374 native TGGGGG 7 1
+  1615   -    1528272    1528787     516 native GGAAGG 7 1
+  1616   +    1529058    1529507     450 native GGCAGC 8 1
+  1617   -    1529823    1530191     369 native ATGGGG 13 1
+  1618   -    1530195    1531115     921 native AGGAGG 9 1
+  1619   -    1531144    1531956     813 native AGGAGT 6 1
+  1620   -    1531975    1532985    1011 native AGGAGG 7 1
+  1621   -    1534129    1535436    1308 native TGGAGG 6 1
+  1622   -    1535660    1536211     552 native TGATGG 7 1
+  1623   -    1536211    1536819     609 native AGAAGG 8 1
+  1624   +    1536949    1537746     798 native GAAAGG 10 1
+  1625   +    1537902    1538603     702 native ATGCGA 4 1
+  1626   +    1538687    1540069    1383 native CGGGGG 7 1
+  1627   -    1540114    1541148    1035 native GAGAGG 7 1
+  1628   -    1541296    1545000    3705 native GGGAGG 10 1
+  1629   -    1545005    1545577     573 native AGGAGG 6 1
+  1630   -    1545713    1546663     951 native AAGAGG 7 1
+  1631   -    1546676    1547593     918 native CAGAGG 8 1
+  1632   -    1547732    1549033    1302 native AGGAGG 8 1
+  1633   -    1549084    1550379    1296 native GGGTGG 6 1
+  1634   -    1550363    1551187     825 native TGGAGG 10 1
+  1635   -    1551191    1552057     867 native AGGAGA 12 1
+  1636   -    1552057    1553142    1086 native TGGTGT 9 1
+  1637   -    1553396    1554823    1428 native AGGAAG 7 1
+  1638   -    1554864    1555718     855 native TGGAGG 6 1
+  1639   -    1555809    1556762     954 native AATAGG 7 1
+  1640   -    1556771    1557592     822 native AAGAGA 5 1
+  1641   -    1557607    1558245     639 native AGGTGA 9 1
+  1642   -    1558247    1558696     450 native AGAGGG 8 1
+  1643   -    1558783    1559523     741 native GGGAGT 8 1
+  1644   +    1559864    1561615    1752 native AAGAAG 7 1
+  1645   +    1561634    1561744     111 atypical AAGAGA 5 1
+  1646   -    1562228    1562965     738 native AGGGGG 8 1
+  1647   -    1563126    1564730    1605 native AAGGGG 5 1
+  1648   +    1564852    1565766     915 native GAAAGG 8 1
+  1649   +    1565856    1566857    1002 atypical AAGGGG 8 1
+  1650   +    1566905    1567408     504 native CGGAGG 6 1
+  1651   +    1567559    1567735     177 atypical AGGAGA 6 1
+  1652   +    1567817    1568164     348 native GTGAGT 14 1
+  1653   +    1568420    1569721    1302 native CGGAGG 7 1
+  1654   -    1569774    1570346     573 native AGGAGA 6 1
+  1655   -    1570381    1571295     915 native AAATGG 8 1
+  1656   +    1571354    1571914     561 native GAAAGG 8 1
+  1657   -    1571911    1572321     411 native AAAAGA 8 1
+  1658   -    1572361    1573164     804 native GTGAGG 8 1
+  1659   -    1573168    1573788     621 native GGCAGG 8 1
+  1660   -    1573804    1574451     648 native TGCAGG 7 1
+  1661   -    1574891    1577197    2307 native AAAAGG 7 1
+  1662   +    1577347    1578033     687 native TGGAGT 8 1
+  1663   +    1578094    1578744     651 native AGGAGA 5 1
+  1664   -    1578848    1579015     168 native TGGGTG 10 1
+  1665   -    1579252    1580523    1272 native TGGTGG 9 1
+  1666   +    1580611    1581282     672 native GTGAGG 6 1
+  1667   -    1581359    1581496     138 native AGGAGT 9 1
+  1668   -    1581587    1582591    1005 native TAGAGG 8 1
+  1669   -    1582603    1583376     774 native GAAAGG 8 1
+  1670   -    1583501    1584838    1338 native AGGAGA 10 1
+  1671   +    1585114    1585374     261 native ATCAGT 7 1
+  1672   +    1585847    1586353     507 native GGGATG 6 1
+  1673   -    1586370    1586933     564 native GAAAGG 8 1
+  1674   -    1587241    1587975     735 native AAGATC 14 1
+  1675   -    1588320    1588655     336 atypical TGGGGG 6 1
+  1676   -    1588737    1589612     876 native AGAAGG 10 1
+  1677   -    1589743    1590672     930 native GGGAGT 8 1
+  1678   -    1590672    1590911     240 atypical TACACA 6 1
+  1679   -    1591207    1592163     957 atypical GTGAGG 7 1
+  1680   -    1592306    1593292     987 native GTGAGG 6 1
+  1681   -    1593308    1593916     609 native AGGAGA 6 1
+  1682   -    1593938    1594822     885 native ACAAGG 9 1
+  1683   -    1594827    1595864    1038 native CGGAGG 6 1
+  1684   -    1595950    1597125    1176 native TAAAGG 9 1
+  1685   -    1597138    1598163    1026 atypical GGGAAA 10 1
+  1686   -    1598291    1598641     351 atypical TGCAGG 7 1
+  1687   -    1598797    1599276     480 atypical AAAAAA 7 1
+  1688   -    1599299   >1599562     264 native
+  1689   -   <1599665    1600111     447 native TAGGTG 5 1
+  1690   -    1600124    1600573     450 native AGGAGT 9 1
+  1691   -    1600588    1601232     645 native AAGAGG 13 1
+  1692   -    1601357    1602127     771 native AAGACG 9 1
+  1693   -    1602127    1602921     795 native AGGAGG 6 1
+  1694   -    1602932    1603819     888 native TAAAGG 8 1
+  1695   -    1603831    1604892    1062 native AAGGGG 6 1
+  1696   +    1605373    1606638    1266 atypical ACGAGG 7 1
+  1697   +    1606660    1606806     147 native GGGAAT 8 1
+  1698   +    1606736    1607665     930 atypical ACGACG 7 1
+  1699   -    1607775    1607873      99 native ACGAGT 9 1
+  1700   -    1607876    1608808     933 native AAGGGG 8 1
+  1701   +   <1609123    1609284     162 native
+  1702   -    1609409    1610167     759 atypical AAGGGA 8 1
+  1703   -    1610636    1610863     228 atypical CAGATA 8 1
+  1704   -    1610992    1611555     564 atypical AGGTGG 9 1
+  1705   +    1612149   >1612829     681 atypical GGGAGT 7 1
+  1706   -    1613295    1613510     216 atypical AGGAGT 8 1
+  1707   -    1613517    1614302     786 atypical GGTAGG 7 1
+  1708   +    1614881   >1615630     750 atypical GGGAGT 7 1
+  1709   -   <1615732    1615860     129 atypical AGAAGC 9 1
+  1710   +    1615997    1616521     525 atypical AAAATT 10 1
+  1711   -    1617270    1618613    1344 atypical AGGAGG 8 1
+  1712   -    1618626    1618904     279 native CGGAAT 8 1
+  1713   -    1619456    1619947     492 native AGAAGC 9 1
+  1714   -    1620365    1621141     777 native AGGAGA 5 1
+  1715   -    1621359    1621742     384 atypical AGGAAT 8 1
+  1716   -    1622058    1623620    1563 native AGAAGC 7 1
+  1717   -    1623574    1624224     651 native AGGAGT 6 1
+  1718   -    1624290    1624610     321 native TTGAGG 11 1
+  1719   -    1624658    1624867     210 atypical TGTCGG 8 1
+  1720   -   <1625100    1625762     663 native AGGAGG 8 1
+  1721   -    1625891    1626160     270 native AAAATA 9 1
+  1722   -    1626254    1626805     552 native GGGAGA 9 1
+  1723   -    1626997    1627542     546 atypical TGGGGG 8 1
+  1724   +    1627637    1627936     300 native AGGAGA 7 1
+  1725   +    1628029    1629543    1515 native GGGAGA 6 1
+  1726   -   <1629745    1630614     870 native TGCTGG 5 1
+  1727   -    1630627    1630722      96 native AGGAGG 8 1
+  1728   -    1630902    1631525     624 native AGGAGG 7 1
+  1729   -    1631543    1632067     525 native AGGAAA 7 1
+  1730   -   <1632406    1632603     198 native AGGAGG 9 1
+  1731   +    1632727    1633503     777 native GGGGGG 5 1
+  1732   -    1634000    1634485     486 native TGGGGG 7 1
+  1733   -    1634488    1635258     771 native TTGAGG 8 1
+  1734   -    1635269    1636810    1542 native TAGAGG 5 1
+  1735   -    1636819    1637196     378 native AGGAGA 5 1
+  1736   +    1637330    1637887     558 native AAGGGA 7 1
+  1737   -    1637874    1638263     390 atypical CTGAAA 7 1
+  1738   -    1638233    1638574     342 atypical GAGAGG 8 1
+  1739   -    1638645    1639886    1242 native AAAAGA 8 1
+  1740   +    1640048    1641844    1797 native TGGAGG 7 1
+  1741   +    1641848    1642111     264 native GGTAAG 6 1
+  1742   +    1642169    1642579     411 native AAAATG 5 1
+  1743   -    1642725    1642997     273 atypical GGGATG 5 1
+  1744   -    1642997    1643290     294 native TGGAGC 2 1
+  1745   -    1643253    1643468     216 native AGGCGT 13 1
+  1746   -    1643465    1643848     384 native TGTCGG 7 1
+  1747   -    1643830    1644354     525 native AGCCGG 11 1
+  1748   -    1644738    1646120    1383 native AGGGGG 5 1
+  1749   -    1646556    1647350     795 native AGGAGG 10 1
+  1750   -    1647350    1647997     648 native AAGGGG 8 1
+  1751   -    1648029    1648931     903 native TGGAGA 8 1
+  1752   -    1649552    1649824     273 native AGTAGG 8 1
+  1753   -   <1650230    1651975    1746 native AAAGGA 14 1
+  1754   -    1652162    1652470     309 native AGAAGA 6 1
+  1755   -    1652697    1653146     450 atypical TGCAGC 13 1
+  1756   -    1653502    1655499    1998 native GGGAGA 13 1
+  1757   -    1655526    1656440     915 native AGGAGG 7 1
+  1758   -    1656440    1657216     777 native AAGCGG 8 1
+  1759   -    1657547    1657714     168 atypical AAGAGT 6 1
+  1760   -    1657695    1657910     216 atypical AAGAAA 7 1
+  1761   -    1657913    1658002      90 native TGGGTG 7 1
+  1762   -    1658200   >1659051     852 native
+  1763   -    1659285    1659893     609 native AGGGGA 8 1
+  1764   -    1660130    1662433    2304 native AGGGGA 5 1
+  1765   -    1662558    1662752     195 native AGGAGG 7 1
+  1766   -    1662764    1662952     189 atypical AAGACG 7 1
+  1767   -    1663049    1663270     222 atypical TGAAGG 8 1
+  1768   -    1663260    1663487     228 native ATGAGG 8 1
+  1769   -    1663634    1663858     225 native AGAACG 7 1
+  1770   +    1664350   >1664520     171 native AGGAGG 8 1
+  1771   +   <1664625    1664723      99 native
+  1772   -    1665012    1665761     750 native AGTAGA 7 1
+  1773   -    1665770    1667341    1572 native AGGAGA 6 1
+  1774   -    1667392    1668540    1149 native TCGAGG 8 1
+  1775   -    1668544    1669230     687 native GAGGGG 8 1
+  1776   -    1669406    1671265    1860 native AGTAGG 8 1
+  1777   -    1671275    1672612    1338 native AAATGG 8 1
+  1778   -    1672609    1672998     390 native AGGTGG 6 1
+  1779   -    1673113    1673895     783 native AGGAGT 4 1
+  1780   -    1673904    1675004    1101 native AAGAGG 7 1
+  1781   -    1675063    1675326     264 native AGGTGT 8 1
+  1782   -    1675319    1676203     885 native AAGAGG 12 1
+  1783   -    1676181    1676960     780 native AGGATG 7 1
+  1784   -    1676976    1677815     840 native AGGAGG 7 1
+  1785   -    1677830    1678552     723 native ACGGGT 5 1
+  1786   +    1678712    1679248     537 native AGGAGA 7 1
+  1787   -    1679290    1680219     930 native TAGAGA 13 1
+  1788   -    1680228    1681019     792 native TGGGGG 8 1
+  1789   -    1681111    1681659     549 native AGGGGG 9 1
+  1790   -    1681673    1682212     540 native AGGTGG 5 1
+  1791   -    1682355    1682978     624 native TTGAGG 9 1
+  1792   -    1683111    1683347     237 native AGGGGG 7 1
+  1793   +    1683795    1685207    1413 native AGCGTG 8 1
+  1794   -    1685252    1685926     675 native TGGTGA 5 1
+  1795   -    1685928    1686989    1062 native AGGGGA 8 1
+  1796   -    1686990    1687517     528 native GAGAGG 6 1
+  1797   -    1687628    1688230     603 native GCGAGG 5 1
+  1798   +    1688371    1689126     756 native AGAAGA 6 1
+  1799   -    1689123    1689884     762 native AGAAGT 11 1
+  1800   +    1689943    1690587     645 native AGGAGG 7 1
+  1801   -    1690619   >1691119     501 atypical
+  1802   +    1691592    1692800    1209 native AGGTAA 8 1
+  1803   +    1692890    1693084     195 native GAGAGG 5 1
+  1804   -    1693123    1694616    1494 native GGGAGT 6 1
+  1805   -    1694726    1697260    2535 native AGGAGG 7 1
+  1806   +    1697467    1697826     360 native GGAATG 6 1
+  1807   -    1697889    1698869     981 native GGGAGT 8 1
+  1808   +    1699019    1700266    1248 native AAGAGA 7 1
+  1809   -    1700373   >1701542    1170 native
+  1810   +   <1701646    1701945     300 atypical
+  1811   +    1702373    1702582     210 atypical CGCAGG 7 1
+  1812   -    1702658    1704826    2169 native TGCAGG 8 1
+  1813   -    1704819    1705244     426 native AGGAGA 6 1
+  1814   -    1705225    1706232    1008 native AGGAGC 4 1
+  1815   -    1706496    1706633     138 native AGCAAC 7 1
+  1816   -    1706618    1707256     639 native TGGAGG 9 1
+  1817   -    1707253    1707789     537 atypical TAGGTA 8 1
+  1818   +   <1708262    1708930     669 native
+  1819   +    1709195    1710154     960 atypical TTGAGA 13 1
+  1820   -    1710908    1711402     495 native AGCTGC 9 1
+  1821   -    1711439    1712266     828 atypical AGGAGA 8 1
+  1822   -    1712470    1713009     540 atypical GGGAGC 7 1
+  1823   -    1712975    1714159    1185 atypical GTGAGG 9 1
+  1824   -    1714201    1715112     912 atypical GAAAGG 8 1
+  1825   +   <1715446    1715640     195 native
+  1826   +    1716146    1716619     474 native AGGAGA 11 1
+  1827   +    1716773    1719058    2286 native AGGAGG 11 1
+  1828   +    1719036    1719968     933 atypical AGAAGT 7 1
+  1829   -   <1720157    1720468     312 atypical AGGATA 9 1
+  1830   +    1720684    1721760    1077 atypical AGGAGG 9 1
+  1831   +    1721763    1722320     558 atypical TGGGGG 7 1
+  1832   +   <1722538    1722840     303 native
+  1833   -    1722888    1723430     543 atypical AGAAGC 8 1
+  1834   -    1723530    1724300     771 atypical AAGGGA 8 1
+  1835   +    1724899   >1725546     648 native AAATGG 5 1
+  1836   -    1725864    1726406     543 atypical AGGAGC 6 1
+  1837   -    1726480    1727469     990 atypical ATGAGG 7 1
+  1838   -    1727517    1728275     759 native TGGAGG 7 1
+  1839   -    1728334    1729104     771 atypical AGGAGA 6 1
+  1840   -    1729097    1729939     843 atypical AGGAGG 6 1
+  1841   -    1729920    1731299    1380 atypical CGGAGG 7 1
+  1842   -    1731313    1731729     417 native AAGGGG 7 1
+  1843   -    1731734    1732204     471 atypical GGGATG 10 1
+  1844   -    1732208    1733437    1230 atypical AGGAGT 6 1
+  1845   -    1733459    1734190     732 atypical AGTTGG 7 1
+  1846   -    1734190    1735107     918 atypical AGTAGG 8 1
+  1847   -    1735117    1735359     243 native AGGAGA 6 1
+  1848   -    1735418    1736401     984 atypical GTGAGG 10 1
+  1849   -    1736398    1736865     468 atypical AGGAGA 8 1
+  1850   -    1736895    1737341     447 native AGGAAG 6 1
+  1851   -    1737826    1738011     186 atypical AAAAGG 11 1
+  1852   -    1738119    1738868     750 atypical AAGATC 13 1
+  1853   +    1739264    1740451    1188 atypical GAAAGG 14 1
+  1854   +    1740448    1741287     840 atypical GGGAGG 7 1
+  1855   -    1741591   >1741881     291 atypical
+  1856   -   <1741984    1743048    1065 atypical GCGGGG 9 1
+  1857   -   <1743209    1743568     360 atypical GGGAGT 8 1
+  1858   -    1743825    1744574     750 atypical AGGTGA 9 1
+  1859   -    1744609    1745655    1047 atypical AAGAGA 8 1
+  1860   -    1745743    1748160    2418 native AGGAGT 8 1
+  1861   -   <1748781    1748873      93 native AGAAGC 9 1
+  1862   -    1749098    1749226     129 native AGGAGG 8 1
+  1863   +    1749689    1750585     897 atypical GTCGGG 7 1
+  1864   +    1750573    1752237    1665 atypical AGGGGG 10 1
+  1865   +    1752245    1752955     711 atypical AGGGGG 10 1
+  1866   +    1753085    1753462     378 atypical CGAAGA 5 1
+  1867   +    1753395    1753973     579 atypical GGGCTG 13 1
+  1868   +   <1754396    1754539     144 native
+  1869   -    1754681    1755919    1239 native GAACGG 9 1
+  1870   -    1756438    1757331     894 atypical AGAAGG 9 1
+  1871   +    1757541    1758074     534 atypical TGGAGC 9 1
+  1872   +    1758353    1758931     579 atypical TAGTGC 8 1
+  1873   -    1759032    1761299    2268 native TGGAGG 5 1
+  1874   -    1761331   >1761483     153 atypical
+  1875   -    1761766    1762425     660 native TAGAGG 10 1
+  1876   -    1762558    1763508     951 native AATAGG 6 1
+  1877   -    1763516    1764289     774 native GAAAGG 8 1
+  1878   -    1764344    1765843    1500 native AAGAGA 6 1
+  1879   +    1765968    1766780     813 native AAGAGG 8 1
+  1880   +    1767089    1767499     411 native AAGAGG 7 1
+  1881   +    1767505    1767798     294 atypical GGGATC 8 1
+  1882   +    1767869    1768555     687 native AAGGGA 7 1
+  1883   -    1769128    1770351    1224 native TCGAGG 8 1
+  1884   -    1770470    1770919     450 native AGGAGA 6 1
+  1885   -    1771078    1772010     933 native TGGGGA 8 1
+  1886   -    1772116    1772760     645 native AGGGGA 8 1
+  1887   -    1772778    1773278     501 native ATGATT 5 1
+  1888   +    1773665    1774015     351 native TAAATC 7 1
+  1889   +    1774024    1774593     570 native TTAATA 6 1
+  1890   +    1774776    1775831    1056 atypical AGCAGG 5 1
+  1891   -    1776183    1776662     480 native ATGAGG 8 1
+  1892   -    1776760    1777122     363 native GAGAGG 8 1
+  1893   -    1777191    1778489    1299 native GGGAAA 8 1
+  1894   -    1778493    1779782    1290 native AGGTGA 7 1
+  1895   +    1779980    1780972     993 native AGGAGA 9 1
+  1896   -    1781409    1782464    1056 native TAGAGG 6 1
+  1897   +    1782899    1783912    1014 native AAGAGG 10 1
+  1898   -    1784376    1784579     204 atypical AAAAGA 6 1
+  1899   -    1785688    1787079    1392 native GGGAGA 6 1
+  1900   -    1787091    1787819     729 native AGGAGG 7 1
+  1901   -    1788131    1789504    1374 native AAGGGG 8 1
+  1902   -    1789550    1790902    1353 native GGAAGG 11 1
+  1903   -    1791006    1791758     753 native AAGGGA 7 1
+  1904   -    1791852    1792493     642 native ATGAGG 7 1
+  1905   -    1792601    1794763    2163 native TGAAGG 6 1
+  1906   -    1795009    1795932     924 native GAAAGG 13 1
+  1907   -    1795901    1797142    1242 native TTGGGA 6 1
+  1908   +    1797315    1798016     702 native AGGAAG 9 1
+  1909   +    1798023    1798484     462 native GGTAGG 5 1
+  1910   +    1798424    1800406    1983 native AAGAAA 14 1
+  1911   +    1800360    1800554     195 native CGTAGG 8 1
+  1912   +    1800601    1800837     237 native GGGTGG 8 1
+  1913   -    1800876    1802492    1617 native TTGAGG 8 1
+  1914   +    1802766    1803728     963 native TGGGGG 7 1
+  1915   -    1803823    1804497     675 native AAGAGT 6 1
+  1916   -    1805216    1805623     408 native AAGTGA 4 1
+  1917   -    1805628    1806017     390 atypical AAGTGC 7 1
+  1918   -    1806213    1806554     342 native GGAATA 14 1
+  1919   -    1806651    1806986     336 atypical AGGAGT 12 1
+  1920   -    1807198    1808142     945 native AAAAGC 6 1
+  1921   -    1808142    1809428    1287 native GGAAAG 8 1
+  1922   -    1809421    1809660     240 native TAGAGG 8 1
+  1923   -    1809719    1810957    1239 native AGGAGG 10 1
+  1924   -    1810957    1812471    1515 native GGTAGG 9 1
+  1925   -    1812487    1812639     153 native TGAGGG 7 1
+  1926   -    1812818    1813114     297 native AGGAAG 6 1
+  1927   -    1813134    1814270    1137 native GAAAGG 9 1
+  1928   +    1814844    1815314     471 native AAGAGG 7 1
+  1929   +    1815446    1817302    1857 native TGGAGG 6 1
+  1930   +    1817456    1818625    1170 native GAAAGG 6 1
+  1931   +    1818754    1819062     309 native AGGAGA 9 1
+  1932   +    1819049    1819318     270 atypical TCGAGG 12 1
+  1933   -    1819356    1820924    1569 native TGGAGG 8 1
+  1934   -    1820929    1821558     630 native GCGAGG 7 1
+  1935   +    1821650    1822507     858 atypical TCGAGG 6 1
+  1936   +    1822504    1822785     282 native GGGAGG 7 1
+  1937   -    1824424    1825080     657 native AAGGTG 11 1
+  1938   +    1825170    1826273    1104 native AGGAGG 8 1
+  1939   +    1826298    1828634    2337 native GAGAGG 6 1
+  1940   -    1828669    1829274     606 native TGGGGA 5 1
+  1941   -    1829381    1830208     828 native AGGAAG 9 1
+  1942   +    1830326    1831045     720 native AGGAGA 8 1
+  1943   -    1831192    1832043     852 atypical AGGAGA 9 1
+  1944   -    1832057    1833094    1038 atypical GAAAGG 8 1
+  1945   -    1833163    1835145    1983 native AAGAGG 7 1
+  1946   -    1835181    1836089     909 native AGAAAG 11 1
+  1947   -    1836111    1838093    1983 native AGGAGG 8 1
+  1948   -    1838365   >1838466     102 native
+  1949   -   <1838571    1838792     222 native AAGAGT 9 1
+  1950   +    1839065    1839712     648 native TTAAGA 6 1
+  1951   +    1839737    1840423     687 native AGAAGG 6 1
+  1952   +   <1840660    1840782     123 atypical
+  1953   -    1840815    1841615     801 native TAAAGG 7 1
+  1954   +    1841854    1843161    1308 native GAGAGA 7 1
+  1955   -    1843228    1844427    1200 native ATGAGG 7 1
+  1956   -    1844566    1845300     735 native AGGAGG 8 1
+  1957   +    1845478    1846788    1311 native TGGAGG 5 1
+  1958   +    1847309    1848625    1317 atypical TAGGGG 8 1
+  1959   +    1849258   >1849350      93 native AAAATG 6 1
+  1960   +    1849795    1851099    1305 native AGGAGT 8 1
+  1961   +    1851200    1851454     255 native GGGAGT 7 1
+  1962   +    1851555    1851995     441 native AGGAGG 5 1
+  1963   +    1852008    1852385     378 native AGGAGG 8 1
+  1964   +    1852385    1852672     288 native GAAAGG 13 1
+  1965   +    1852672    1854594    1923 native AAGTGG 10 1
+  1966   +    1854694    1855425     732 native TTAAGG 5 1
+  1967   +    1855589    1856074     486 native AGCAGA 0 1
+  1968   -    1856119    1856271     153 native AGGAAG 7 1
+  1969   -    1856336    1857439    1104 native AAGAGG 7 1
+  1970   -    1857533    1859092    1560 native GAGAGG 5 1
+  1971   -    1859192    1860595    1404 native TGGAGG 12 1
+  1972   -    1860761    1862563    1803 native AGGAGA 11 1
+  1973   -    1862921    1864819    1899 native AGTAGG 7 1
+  1974   -    1864828    1866213    1386 native AAAAGG 7 1
+  1975   -    1866323    1867198     876 native TTGAGG 9 1
+  1976   -    1867200    1867568     369 native GGAATG 7 1
+  1977   -    1867621    1867761     141 native TGGAGG 11 1
+  1978   +    1867906   >1868010     105 atypical ATAAGG 9 1
+# CP015498.1_RagTag	total_logodd	169582	average_length	821	average_density	1.06
+
+# sequence-region 1 473
+SequenceID: k119_10
+  1979   -   <3    260     258 native TGGAAG 6 1
+# k119_10	total_logodd	16.9481	average_length	258	average_density	2.11
+
+# sequence-region 1 357
+SequenceID: k119_102
+  1980   +   <3   >356     354 native
+# k119_102	total_logodd	32.4965	average_length	354	average_density	2.80
+
+# sequence-region 1 263
+SequenceID: k119_104
+  1981   +   <3   >263     261 native
+# k119_104	total_logodd	16.3061	average_length	261	average_density	3.80
+
+# sequence-region 1 206
+SequenceID: k119_107
+  1982   +   <1   >204     204 native
+# k119_107	total_logodd	11.2273	average_length	204	average_density	4.85
+
+# sequence-region 1 238
+SequenceID: k119_118
+# k119_118	total_logodd	0	average_length	0	average_density	0.00
+
+# sequence-region 1 352
+SequenceID: k119_120
+  1983   +    27   >350     324 native TAAAGG 8 1
+# k119_120	total_logodd	14.9172	average_length	324	average_density	2.84
+
+# sequence-region 1 238
+SequenceID: k119_121
+  1984   +   <2    121     120 native
+  1985   +    137   >238     102 native ATAAGA 8 1
+# k119_121	total_logodd	8.07797	average_length	111	average_density	8.40
+
+# sequence-region 1 239
+SequenceID: k119_125
+  1986   +   <3   >239     237 native
+# k119_125	total_logodd	19.0538	average_length	237	average_density	4.18
+
+# sequence-region 1 264
+SequenceID: k119_127
+  1987   +    66   >263     198 native GGGGGG 9 1
+# k119_127	total_logodd	17.311	average_length	198	average_density	3.79
+
+# sequence-region 1 299
+SequenceID: k119_128
+  1988   -   <1    114     114 native ATAAGT 6 1
+  1989   -    95   >298     204 native
+# k119_128	total_logodd	18.5149	average_length	159	average_density	6.69
+
+# sequence-region 1 1280
+SequenceID: k119_129
+  1990   +    138    932     795 native AGGAAA 5 1
+  1991   +    929    1123     195 atypical TGGATG 11 1
+# k119_129	total_logodd	39.9429	average_length	495	average_density	1.56
+
+# sequence-region 1 236
+SequenceID: k119_130
+# k119_130	total_logodd	0	average_length	0	average_density	0.00
+
+# sequence-region 1 563
+SequenceID: k119_132
+  1992   +   <3    551     549 native
+# k119_132	total_logodd	48.3932	average_length	549	average_density	1.78
+
+# sequence-region 1 203
+SequenceID: k119_137
+  1993   +   <1   >201     201 native
+# k119_137	total_logodd	13.7995	average_length	201	average_density	4.93
+
+# sequence-region 1 330
+SequenceID: k119_140
+# k119_140	total_logodd	0	average_length	0	average_density	0.00
+
+# sequence-region 1 238
+SequenceID: k119_143
+  1994   +   <2   >238     237 native
+# k119_143	total_logodd	17.2187	average_length	237	average_density	4.20
+
+# sequence-region 1 17634
+SequenceID: k119_145
+  1995   +   <2    1162    1161 native
+  1996   +    1303    1635     333 native GGGGTA 11 1
+  1997   +    1761    3422    1662 native TGGAGG 8 1
+  1998   +    3426    5147    1722 native AGGAGA 8 1
+  1999   +    5321    7585    2265 native GGGAGA 10 1
+  2000   +    7578    8249     672 native AGAAGG 11 1
+  2001   +    8275    9381    1107 native TAGGGG 5 1
+  2002   +    9468    10694    1227 native GGGAGG 7 1
+  2003   +    10772    12130    1359 native AAGGGG 7 1
+  2004   +    12133    12990     858 native AGGAGG 7 1
+  2005   +    13154    13456     303 native TCAAGG 8 1
+  2006   -    13439    13648     210 native AGGAGA 7 1
+  2007   -    13774    14115     342 native AGGAGA 4 1
+  2008   +    14241    15515    1275 native GGAAGG 8 1
+  2009   +    15675   >17633    1959 native AAAGGA 14 1
+# k119_145	total_logodd	1863.71	average_length	1097	average_density	0.85
+
+# sequence-region 1 329
+SequenceID: k119_146
+  2010   -   <3   >329     327 native
+# k119_146	total_logodd	21.8477	average_length	327	average_density	3.04
+
+# sequence-region 1 416
+SequenceID: k119_148
+  2011   +   <1   >414     414 native
+# k119_148	total_logodd	41.4482	average_length	414	average_density	2.40
+
+# sequence-region 1 1914
+SequenceID: k119_15
+  2012   -   <2    217     216 atypical AGAATG 6 1
+  2013   +    481    804     324 native GGGAGG 6 1
+  2014   +    832    1707     876 native TCCAGT 7 1
+# k119_15	total_logodd	88.5349	average_length	472	average_density	1.57
+
+# sequence-region 1 211
+SequenceID: k119_151
+  2015   +   <2   >211     210 native
+# k119_151	total_logodd	17.7788	average_length	210	average_density	4.74
+
+# sequence-region 1 238
+SequenceID: k119_152
+  2016   +    58   >237     180 native AGAAGC 9 1
+# k119_152	total_logodd	9.48101	average_length	180	average_density	4.20
+
+# sequence-region 1 439
+SequenceID: k119_156
+  2017   +   <3   >437     435 native
+# k119_156	total_logodd	34.9383	average_length	435	average_density	2.28
+
+# sequence-region 1 210
+SequenceID: k119_161
+  2018   +   <3    170     168 native
+# k119_161	total_logodd	17.0165	average_length	168	average_density	4.76
+
+# sequence-region 1 259
+SequenceID: k119_163
+  2019   +    49   >258     210 native TGCAGG 10 1
+# k119_163	total_logodd	22.266	average_length	210	average_density	3.86
+
+# sequence-region 1 302
+SequenceID: k119_164
+  2020   -    73   >300     228 native
+# k119_164	total_logodd	7.01608	average_length	228	average_density	3.31
+
+# sequence-region 1 238
+SequenceID: k119_165
+  2021   +   <1   >237     237 native
+# k119_165	total_logodd	21.4542	average_length	237	average_density	4.20
+
+# sequence-region 1 356
+SequenceID: k119_167
+  2022   +   <1   >354     354 native
+# k119_167	total_logodd	18.203	average_length	354	average_density	2.81
+
+# sequence-region 1 267
+SequenceID: k119_170
+  2023   -    92   >265     174 native
+# k119_170	total_logodd	13.9804	average_length	174	average_density	3.75
+
+# sequence-region 1 289
+SequenceID: k119_171
+  2024   +   <1    198     198 native
+# k119_171	total_logodd	21.6924	average_length	198	average_density	3.46
+
+# sequence-region 1 291
+SequenceID: k119_174
+  2025   +   <1    204     204 native
+# k119_174	total_logodd	16.3193	average_length	204	average_density	3.44
+
+# sequence-region 1 512
+SequenceID: k119_18
+  2026   +   <1    249     249 native
+# k119_18	total_logodd	16.8154	average_length	249	average_density	1.95
+
+# sequence-region 1 211
+SequenceID: k119_181
+  2027   +    34   >210     177 native AATTGG 7 1
+# k119_181	total_logodd	9.63435	average_length	177	average_density	4.74
+
+# sequence-region 1 1860
+SequenceID: k119_182
+  2028   +   <3    92      90 native
+  2029   +    696    1397     702 atypical AGGAGA 5 1
+  2030   +    1718   >1858     141 native AGAAGA 8 1
+# k119_182	total_logodd	74.8236	average_length	311	average_density	1.61
+
+# sequence-region 1 1079
+SequenceID: k119_183
+  2031   +    25   >1077    1053 native AGAAGA 8 1
+# k119_183	total_logodd	81.8824	average_length	1053	average_density	0.93
+
+# sequence-region 1 273
+SequenceID: k119_188
+  2032   +    131   >271     141 native AGAAGA 8 1
+# k119_188	total_logodd	21.4794	average_length	141	average_density	3.66
+
+# sequence-region 1 265
+SequenceID: k119_190
+  2033   +   <1    240     240 native
+# k119_190	total_logodd	9.66763	average_length	240	average_density	3.77
+
+# sequence-region 1 9016
+SequenceID: k119_193_1_9016_+
+  2034   -    394    630     237 atypical CTAAGA 6 1
+  2035   -    835    2286    1452 atypical ATAATA 7 1
+  2036   -    2283    3413    1131 atypical AGAAGG 13 1
+  2037   -    3431    4144     714 atypical AGGATA 6 1
+  2038   -    4141    4869     729 atypical TGGGAG 5 1
+  2039   -    4870    5895    1026 atypical TAGAGT 6 1
+  2040   -    5882    6985    1104 atypical AAGTGA 5 1
+  2041   -    6991    8955    1965 atypical CAGTGA 8 1
+# k119_193_1_9016_+	total_logodd	389.461	average_length	1045	average_density	0.89
+
+# sequence-region 1 597
+SequenceID: k119_195
+  2042   +   <1    450     450 native
+# k119_195	total_logodd	25.7156	average_length	450	average_density	1.68
+
+# sequence-region 1 5496
+SequenceID: k119_197
+# k119_197	total_logodd	0	average_length	0	average_density	0.00
+
+# sequence-region 1 9878
+SequenceID: k119_19_1_9878_+
+  2043   +   <3    836     834 atypical
+  2044   +    1803    2828    1026 atypical TGGAGG 8 1
+  2045   +    2825    3604     780 atypical AGGACG 7 1
+  2046   +    3607    4194     588 atypical AGGAGG 7 1
+  2047   +    4191    5411    1221 atypical AAGAGG 10 1
+  2048   +    5404    6198     795 atypical AGGAGT 8 1
+  2049   -    6574    7968    1395 native ACGCGT 5 1
+  2050   -    7984    8841     858 native AAGAGT 9 1
+  2051   -    8925    9188     264 native ATGAGA 5 1
+# k119_19_1_9878_+	total_logodd	537.018	average_length	862	average_density	0.91
+
+# sequence-region 1 1631
+SequenceID: k119_20
+  2052   +   <1    252     252 atypical
+  2053   +    536    688     153 atypical AGGAGG 9 1
+  2054   -    1038   >1631     594 native
+# k119_20	total_logodd	54.6164	average_length	333	average_density	1.84
+
+# sequence-region 1 751
+SequenceID: k119_201
+  2055   +   <1    696     696 native
+# k119_201	total_logodd	52.3855	average_length	696	average_density	1.33
+
+# sequence-region 1 268
+SequenceID: k119_203
+  2056   -   <2   >268     267 native
+# k119_203	total_logodd	20.4651	average_length	267	average_density	3.73
+
+# sequence-region 1 307
+SequenceID: k119_21
+  2057   +    199   >306     108 native AGAAAA 8 1
+# k119_21	total_logodd	14.2121	average_length	108	average_density	3.26
+
+# sequence-region 1 420
+SequenceID: k119_212
+  2058   +   <2   >418     417 native
+# k119_212	total_logodd	32.1164	average_length	417	average_density	2.38
+
+# sequence-region 1 326
+SequenceID: k119_213
+  2059   -   <1    312     312 native TAAAGG 7 1
+# k119_213	total_logodd	25.8719	average_length	312	average_density	3.07
+
+# sequence-region 1 214
+SequenceID: k119_214
+  2060   +   <3   >212     210 native
+# k119_214	total_logodd	6.91839	average_length	210	average_density	4.67
+
+# sequence-region 1 13103
+SequenceID: k119_216
+  2061   +   <1    93      93 native
+  2062   -    341    5344    5004 native AGGAGA 7 1
+  2063   -    5565    7319    1755 native AGGAGA 5 1
+  2064   -    7528    8250     723 atypical AAGAGC 4 1
+  2065   -    8730    8879     150 atypical TGAAGG 7 1
+  2066   -    8999    9142     144 atypical AGGAGA 8 1
+  2067   -    9168    9644     477 atypical ATTTGG 6 1
+  2068   -    9641    10147     507 atypical AGCATT 7 1
+  2069   -    10432    10734     303 atypical GGGAGA 13 1
+  2070   -    10773    11318     546 atypical AGGAGA 6 1
+  2071   +    11442    12977    1536 native TGGAGG 8 1
+# k119_216	total_logodd	1116.56	average_length	1022	average_density	0.84
+
+# sequence-region 1 204
+SequenceID: k119_218
+  2072   -   <2    181     180 native AATTGG 7 1
+# k119_218	total_logodd	7.50197	average_length	180	average_density	4.90
+
+# sequence-region 1 206
+SequenceID: k119_219
+  2073   +    55   >204     150 native TAAAGG 8 1
+# k119_219	total_logodd	9.86343	average_length	150	average_density	4.85
+
+# sequence-region 1 742
+SequenceID: k119_22
+  2074   -   <3    113     111 atypical AGGAAC 9 1
+  2075   +    217    495     279 native AGGAGG 9 1
+  2076   +    485   >742     258 native TGGATC 10 1
+# k119_22	total_logodd	45.6138	average_length	216	average_density	4.04
+
+# sequence-region 1 244
+SequenceID: k119_221
+  2077   -   <2   >244     243 native
+# k119_221	total_logodd	11.3169	average_length	243	average_density	4.10
+
+# sequence-region 1 316
+SequenceID: k119_222
+  2078   +   <1   >315     315 atypical
+# k119_222	total_logodd	2.34395	average_length	315	average_density	3.16
+
+# sequence-region 1 238
+SequenceID: k119_226
+  2079   +   <3   >236     234 native
+# k119_226	total_logodd	27.649	average_length	234	average_density	4.20
+
+# sequence-region 1 1225
+SequenceID: k119_227
+  2080   -    109    657     549 atypical GGAAGA 1 1
+# k119_227	total_logodd	26.9133	average_length	549	average_density	0.82
+
+# sequence-region 1 523
+SequenceID: k119_233
+  2081   -   <2    451     450 native GTGAGC 8 1
+# k119_233	total_logodd	34.8663	average_length	450	average_density	1.91
+
+# sequence-region 1 210
+SequenceID: k119_236
+  2082   -    35   >208     174 native
+# k119_236	total_logodd	16.471	average_length	174	average_density	4.76
+
+# sequence-region 1 8021
+SequenceID: k119_238
+  2083   -    502    1293     792 atypical TGGGTG 7 1
+  2084   -    1283    2122     840 atypical AGGTGA 7 1
+  2085   -    2142    3146    1005 atypical GAGAGT 7 1
+  2086   -    3163    4158     996 atypical TTGAGG 7 1
+  2087   -    4161    4772     612 atypical TGGAGT 4 1
+  2088   -    4775    5635     861 atypical GGTAGG 6 1
+  2089   -    5638    7128    1491 atypical AGAAGG 1 1
+  2090   -    7267    7587     321 atypical AGGAGG 7 1
+  2091   -    7915   >8019     105 native
+# k119_238	total_logodd	309.297	average_length	780	average_density	1.12
+
+# sequence-region 1 279
+SequenceID: k119_239
+  2092   -    7   >279     273 native
+# k119_239	total_logodd	23.6151	average_length	273	average_density	3.58
+
+# sequence-region 1 350
+SequenceID: k119_240
+# k119_240	total_logodd	0	average_length	0	average_density	0.00
+
+# sequence-region 1 389
+SequenceID: k119_243
+  2093   +   <1   >387     387 native
+# k119_243	total_logodd	47.6357	average_length	387	average_density	2.57
+
+# sequence-region 1 264
+SequenceID: k119_247
+  2094   +   <1   >264     264 native
+# k119_247	total_logodd	18.4125	average_length	264	average_density	3.79
+
+# sequence-region 1 251
+SequenceID: k119_25
+  2095   -   <1    207     207 native AGGAGA 9 1
+# k119_25	total_logodd	13.6466	average_length	207	average_density	3.98
+
+# sequence-region 1 5517
+SequenceID: k119_250
+  2096   +    124    396     273 native ACGGTC 8 1
+  2097   +    451    1182     732 atypical TTAATA 6 1
+  2098   +    1179    1895     717 atypical AGGGGG 8 1
+  2099   +    1888    2247     360 atypical AGGAAA 9 1
+  2100   +    2355    2723     369 atypical ATAATT 8 1
+  2101   +    2724    3530     807 atypical GGGAGA 8 1
+  2102   +    3532    4527     996 atypical AGGAAG 11 1
+  2103   +    4532    4741     210 atypical AATAGT 8 1
+  2104   +    4861    5418     558 atypical AACAGC 13 1
+# k119_250	total_logodd	206.798	average_length	558	average_density	1.63
+
+# sequence-region 1 1296
+SequenceID: k119_253
+  2105   -    147    1193    1047 native TGGAGG 6 1
+# k119_253	total_logodd	71.598	average_length	1047	average_density	0.77
+
+# sequence-region 1 1432
+SequenceID: k119_255
+  2106   -    164    814     651 atypical AGGAGG 8 1
+  2107   -    877    1122     246 atypical ACGAGG 4 1
+# k119_255	total_logodd	25.1462	average_length	448	average_density	1.40
+
+# sequence-region 1 205
+SequenceID: k119_257
+  2108   +   <3    101      99 native
+# k119_257	total_logodd	14.2268	average_length	99	average_density	4.88
+
+# sequence-region 1 1165
+SequenceID: k119_26
+  2109   -   <1    117     117 native AGGAGT 11 1
+  2110   -    187    369     183 atypical TGGATG 5 1
+  2111   -    356    619     264 atypical GAGAGG 8 1
+  2112   +    1030   >1164     135 native AGGAGG 8 1
+# k119_26	total_logodd	47.7698	average_length	175	average_density	3.43
+
+# sequence-region 1 458
+SequenceID: k119_266
+  2113   +    52   >456     405 native AATAGG 5 1
+# k119_266	total_logodd	30.3374	average_length	405	average_density	2.18
+
+# sequence-region 1 280
+SequenceID: k119_268
+  2114   -   <3   >278     276 native
+# k119_268	total_logodd	20.2268	average_length	276	average_density	3.57
+
+# sequence-region 1 333
+SequenceID: k119_271
+  2115   +    34   >333     300 native GTGAGC 8 1
+# k119_271	total_logodd	22.8089	average_length	300	average_density	3.00
+
+# sequence-region 1 288
+SequenceID: k119_272
+  2116   +   <1   >288     288 native
+# k119_272	total_logodd	32.2532	average_length	288	average_density	3.47
+
+# sequence-region 1 223
+SequenceID: k119_273
+  2117   +   <3   >221     219 native
+# k119_273	total_logodd	7.61828	average_length	219	average_density	4.48
+
+# sequence-region 1 239
+SequenceID: k119_274
+  2118   -   <3    215     213 native CGGACA 8 1
+# k119_274	total_logodd	8.52105	average_length	213	average_density	4.18
+
+# sequence-region 1 600
+SequenceID: k119_275
+  2119   +   <1    108     108 native
+  2120   +    178    516     339 atypical TCGATA 6 1
+# k119_275	total_logodd	18.8173	average_length	224	average_density	3.33
+
+# sequence-region 1 319
+SequenceID: k119_277
+  2121   -   <2   >319     318 native
+# k119_277	total_logodd	17.8768	average_length	318	average_density	3.13
+
+# sequence-region 1 426
+SequenceID: k119_278
+  2122   +    25    336     312 native AAAATG 6 1
+# k119_278	total_logodd	24.9041	average_length	312	average_density	2.35
+
+# sequence-region 1 290
+SequenceID: k119_279
+  2123   +    25   >288     264 native AAAATG 6 1
+# k119_279	total_logodd	28.5286	average_length	264	average_density	3.45
+
+# sequence-region 1 267
+SequenceID: k119_28
+  2124   +   <3   >266     264 native
+# k119_28	total_logodd	9.03613	average_length	264	average_density	3.75
+
+# sequence-region 1 603
+SequenceID: k119_284
+  2125   -   <2   >601     600 native
+# k119_284	total_logodd	54.0263	average_length	600	average_density	1.66
+
+# sequence-region 1 206
+SequenceID: k119_286
+  2126   +    28   >204     177 native CGAATG 9 1
+# k119_286	total_logodd	22.017	average_length	177	average_density	4.85
+
+# sequence-region 1 204
+SequenceID: k119_294
+  2127   +   <2   >202     201 native
+# k119_294	total_logodd	11.4972	average_length	201	average_density	4.90
+
+# sequence-region 1 261
+SequenceID: k119_298
+  2128   -   <2   >259     258 native
+# k119_298	total_logodd	22.1329	average_length	258	average_density	3.83
+
+# sequence-region 1 236
+SequenceID: k119_299
+  2129   -    31   >234     204 atypical
+# k119_299	total_logodd	7.19184	average_length	204	average_density	4.24
+
+# sequence-region 1 800
+SequenceID: k119_30
+  2130   -    53    391     339 atypical TGCCGG 14 1
+  2131   -    460   >798     339 native
+# k119_30	total_logodd	40.0872	average_length	339	average_density	2.50
+
+# sequence-region 1 213
+SequenceID: k119_301
+  2132   -   <3   >212     210 atypical
+# k119_301	total_logodd	3.60945	average_length	210	average_density	4.69
+
+# sequence-region 1 3730
+SequenceID: k119_302
+  2133   +    181    930     750 atypical AAACTA 7 1
+  2134   +    933    1826     894 atypical ATGAGG 7 1
+  2135   +    2057    2305     249 native TGGAGG 6 1
+  2136   +    2289    2999     711 native ATAAGT 10 1
+  2137   +    3038    3547     510 native AAATGG 7 1
+  2138   -    3624   >3728     105 native
+# k119_302	total_logodd	230.926	average_length	536	average_density	1.61
+
+# sequence-region 1 7533
+SequenceID: k119_303
+  2139   +    641    913     273 atypical AAGAGG 12 1
+  2140   +    974    1705     732 atypical ATAATG 7 1
+  2141   +    1702    2895    1194 atypical TTGTGG 9 1
+  2142   -    3381    3965     585 atypical TCAAGC 8 1
+  2143   +    4385    4732     348 native AGGAGA 8 1
+  2144   +    4719    5849    1131 atypical GGGTGA 8 1
+  2145   -    6043    7254    1212 native AGGATG 8 1
+# k119_303	total_logodd	334.383	average_length	782	average_density	0.93
+
+# sequence-region 1 298
+SequenceID: k119_312
+  2146   +   <2    265     264 native
+# k119_312	total_logodd	22.0013	average_length	264	average_density	3.36
+
+# sequence-region 1 1199
+SequenceID: k119_313
+  2147   +    51   >1199    1149 atypical AGAAGA 8 1
+# k119_313	total_logodd	67.8492	average_length	1149	average_density	0.83
+
+# sequence-region 1 212
+SequenceID: k119_32
+  2148   -   <1    180     180 native AGAATA 7 1
+# k119_32	total_logodd	11.0114	average_length	180	average_density	4.72
+
+# sequence-region 1 260
+SequenceID: k119_320
+  2149   -    51   >260     210 native
+# k119_320	total_logodd	18.5118	average_length	210	average_density	3.85
+
+# sequence-region 1 267
+SequenceID: k119_323
+  2150   +    106   >267     162 native ACGAGG 5 1
+# k119_323	total_logodd	15.1632	average_length	162	average_density	3.75
+
+# sequence-region 1 1741
+SequenceID: k119_33
+  2151   +    256    1458    1203 atypical ATGGGG 7 1
+  2152   -    1598   >1741     144 native
+# k119_33	total_logodd	68.8701	average_length	674	average_density	1.15
+
+# sequence-region 1 238
+SequenceID: k119_332
+  2153   -   <2    205     204 native AGAATA 7 1
+# k119_332	total_logodd	14.2304	average_length	204	average_density	4.20
+
+# sequence-region 1 387
+SequenceID: k119_335
+  2154   -   <1    129     129 atypical CAGATA 9 1
+# k119_335	total_logodd	4.13682	average_length	129	average_density	2.58
+
+# sequence-region 1 239
+SequenceID: k119_343
+  2155   +   <3   >239     237 native
+# k119_343	total_logodd	9.06124	average_length	237	average_density	4.18
+
+# sequence-region 1 347
+SequenceID: k119_345
+  2156   +    16   >345     330 native TGGAAC 7 1
+# k119_345	total_logodd	22.9002	average_length	330	average_density	2.88
+
+# sequence-region 1 238
+SequenceID: k119_346
+  2157   +   <3   >236     234 native
+# k119_346	total_logodd	25.7776	average_length	234	average_density	4.20
+
+# sequence-region 1 205
+SequenceID: k119_348
+  2158   +   <1    174     174 native
+# k119_348	total_logodd	18.5771	average_length	174	average_density	4.88
+
+# sequence-region 1 285
+SequenceID: k119_349
+  2159   +    126   >284     159 native AGAAAG 9 1
+# k119_349	total_logodd	13.5905	average_length	159	average_density	3.51
+
+# sequence-region 1 568
+SequenceID: k119_35
+  2160   +    140   >568     429 native AGGAGG 8 1
+# k119_35	total_logodd	42.4442	average_length	429	average_density	1.76
+
+# sequence-region 1 317
+SequenceID: k119_353
+  2161   +    29   >316     288 atypical GAGAGA 8 1
+# k119_353	total_logodd	19.9304	average_length	288	average_density	3.15
+
+# sequence-region 1 220
+SequenceID: k119_354
+  2162   +   <2   >220     219 native
+# k119_354	total_logodd	22.3257	average_length	219	average_density	4.55
+
+# sequence-region 1 481
+SequenceID: k119_362
+  2163   +    43   >480     438 atypical AGGAGA 5 1
+# k119_362	total_logodd	28.9559	average_length	438	average_density	2.08
+
+# sequence-region 1 953
+SequenceID: k119_366
+  2164   -   <2    658     657 native AACAGC 7 1
+# k119_366	total_logodd	28.695	average_length	657	average_density	1.05
+
+# sequence-region 1 1084
+SequenceID: k119_368
+  2165   -   <2    112     111 atypical ACGCGT 7 1
+  2166   +    371    1072     702 native CGGACA 8 1
+# k119_368	total_logodd	47.4372	average_length	406	average_density	1.85
+
+# sequence-region 1 233
+SequenceID: k119_369
+  2167   +   <1   >231     231 native
+# k119_369	total_logodd	19.0478	average_length	231	average_density	4.29
+
+# sequence-region 1 207
+SequenceID: k119_374
+  2168   -   <2    187     186 native ATACGG 6 1
+# k119_374	total_logodd	16.9012	average_length	186	average_density	4.83
+
+# sequence-region 1 215
+SequenceID: k119_375
+  2169   -   <1   >213     213 native
+# k119_375	total_logodd	12.8057	average_length	213	average_density	4.65
+
+# sequence-region 1 3609
+SequenceID: k119_376
+  2170   +   <1    204     204 native
+  2171   -    597    1361     765 atypical GGGAGA 5 1
+  2172   -    1363    2283     921 atypical AGGAGG 7 1
+  2173   -    2809    3447     639 atypical TAATGG 7 1
+# k119_376	total_logodd	161.049	average_length	632	average_density	1.11
+
+# sequence-region 1 459
+SequenceID: k119_377
+  2174   -   <3    395     393 native TTAAGA 6 1
+# k119_377	total_logodd	35.3232	average_length	393	average_density	2.18
+
+# sequence-region 1 8813
+SequenceID: k119_378
+  2175   +   <3    434     432 native
+  2176   +    694    975     282 native AGGAGA 10 1
+  2177   +    965    1471     507 native CAACGA 5 1
+  2178   -    1461    1739     279 atypical ATGGGG 7 1
+  2179   -    1762    1971     210 native TGGAGG 7 1
+  2180   +    2241    4301    2061 atypical AGATGG 8 1
+  2181   +    4421    5932    1512 atypical TCCAGC 7 1
+  2182   +    6053    6268     216 atypical AGGAGG 7 1
+  2183   +    6271    6954     684 atypical AGGAGG 7 1
+  2184   +    6974    7387     414 atypical AAGCGG 14 1
+  2185   +    7410    7865     456 native AGGAGT 7 1
+  2186   -    7916    8230     315 atypical TGGATT 8 1
+  2187   -    8199   >8813     615 atypical
+# k119_378	total_logodd	500.038	average_length	614	average_density	1.48
+
+# sequence-region 1 742
+SequenceID: k119_381
+  2188   -   <3    725     723 native AAGAGC 11 1
+# k119_381	total_logodd	79.7711	average_length	723	average_density	1.35
+
+# sequence-region 1 1474
+SequenceID: k119_382
+  2189   +    210    1439    1230 native TGGAGG 5 1
+# k119_382	total_logodd	75.4577	average_length	1230	average_density	0.68
+
+# sequence-region 1 2593
+SequenceID: k119_383
+  2190   -    446    1981    1536 atypical TACAGG 7 1
+  2191   -    2240   >2593     354 native
+# k119_383	total_logodd	138.925	average_length	945	average_density	0.77
+
+# sequence-region 1 2294
+SequenceID: k119_386
+  2192   +    249    500     252 atypical ACGAGA 13 1
+  2193   +    497    829     333 native AAGAGA 7 1
+  2194   +    1585    1800     216 atypical AGGAGA 8 1
+  2195   +    2042   >2293     252 native AAGAAG 13 1
+# k119_386	total_logodd	65.4003	average_length	263	average_density	1.74
+
+# sequence-region 1 215
+SequenceID: k119_388
+  2196   +   <1   >213     213 native
+# k119_388	total_logodd	20.8551	average_length	213	average_density	4.65
+
+# sequence-region 1 238
+SequenceID: k119_389
+  2197   -   <3    110     108 native GTGAGT 8 1
+# k119_389	total_logodd	9.53809	average_length	108	average_density	4.20
+
+# sequence-region 1 3772
+SequenceID: k119_391
+  2198   +    160    597     438 native AGGAGC 7 1
+  2199   +    1747    1986     240 atypical TGAAGC 7 1
+  2200   -    2104    3345    1242 atypical TGGAGG 8 1
+# k119_391	total_logodd	88.288	average_length	640	average_density	0.80
+
+# sequence-region 1 278
+SequenceID: k119_395
+  2201   -   <1   >276     276 native
+# k119_395	total_logodd	17.2687	average_length	276	average_density	3.60
+
+# sequence-region 1 251
+SequenceID: k119_396
+  2202   +   <1   >249     249 atypical
+# k119_396	total_logodd	16.1178	average_length	249	average_density	3.98
+
+# sequence-region 1 258
+SequenceID: k119_4
+  2203   +   <2   >256     255 native
+# k119_4	total_logodd	24.506	average_length	255	average_density	3.88
+
+# sequence-region 1 964
+SequenceID: k119_401
+  2204   -    12    869     858 native AAGAGT 9 1
+# k119_401	total_logodd	48.5324	average_length	858	average_density	1.04
+
+# sequence-region 1 238
+SequenceID: k119_404
+  2205   -    19   >237     219 atypical
+# k119_404	total_logodd	14.3999	average_length	219	average_density	4.20
+
+# sequence-region 1 211
+SequenceID: k119_413
+  2206   +   <1   >210     210 native
+# k119_413	total_logodd	20.0556	average_length	210	average_density	4.74
+
+# sequence-region 1 290
+SequenceID: k119_419
+  2207   -   <3    233     231 native CAAAGG 5 1
+  2208   -    199   >288      90 atypical
+# k119_419	total_logodd	17.1443	average_length	160	average_density	6.90
+
+# sequence-region 1 291
+SequenceID: k119_42
+  2209   -   <2   >289     288 native
+# k119_42	total_logodd	26.2849	average_length	288	average_density	3.44
+
+# sequence-region 1 277
+SequenceID: k119_421
+  2210   +   <1   >276     276 native
+# k119_421	total_logodd	15.5025	average_length	276	average_density	3.61
+
+# sequence-region 1 239
+SequenceID: k119_425
+  2211   -   <2    223     222 native AGGAAA 7 1
+# k119_425	total_logodd	15.4395	average_length	222	average_density	4.18
+
+# sequence-region 1 206
+SequenceID: k119_426
+  2212   -   <2    190     189 native AGGAAA 7 1
+# k119_426	total_logodd	12.6115	average_length	189	average_density	4.85
+
+# sequence-region 1 258
+SequenceID: k119_428
+  2213   -    55   >258     204 native
+# k119_428	total_logodd	13.705	average_length	204	average_density	3.88
+
+# sequence-region 1 1275
+SequenceID: k119_433
+  2214   -   <3    815     813 native GTGAGC 8 1
+  2215   -    1184   >1273      90 native
+# k119_433	total_logodd	51.7186	average_length	452	average_density	1.57
+
+# sequence-region 1 330
+SequenceID: k119_434
+  2216   +   <3    140     138 atypical
+# k119_434	total_logodd	0.117852	average_length	138	average_density	3.03
+
+# sequence-region 1 465
+SequenceID: k119_437
+  2217   +   <2   >463     462 native
+# k119_437	total_logodd	36.624	average_length	462	average_density	2.15
+
+# sequence-region 1 249
+SequenceID: k119_441
+  2218   -   <2   >247     246 native
+# k119_441	total_logodd	26.256	average_length	246	average_density	4.02
+
+# sequence-region 1 3381
+SequenceID: k119_443
+  2219   +   <1    231     231 atypical
+  2220   +    287    400     114 native AGAAGG 7 1
+  2221   +    397    1044     648 native TAAAGG 1 1
+  2222   +    1032    1616     585 native TGAAGG 9 1
+  2223   +    1532    1993     462 native GGGCAG 14 1
+  2224   +    2064    2906     843 native AGAAAG 7 1
+  2225   +    2882    3097     216 native GGAACG 7 1
+  2226   +    3075    3254     180 native TGCTGG 14 1
+# k119_443	total_logodd	355.608	average_length	410	average_density	2.37
+
+# sequence-region 1 323
+SequenceID: k119_444
+  2227   +   <1    246     246 native
+# k119_444	total_logodd	22.3093	average_length	246	average_density	3.10
+
+# sequence-region 1 3083
+SequenceID: k119_445
+  2228   -    162    1343    1182 native GGGAGG 6 1
+  2229   -    1482    1589     108 atypical AGAAGG 7 1
+  2230   -    1782    2723     942 native TGGAAA 6 1
+# k119_445	total_logodd	218.103	average_length	744	average_density	0.97
+
+# sequence-region 1 358
+SequenceID: k119_446
+  2231   +   <1    351     351 native
+# k119_446	total_logodd	35.3106	average_length	351	average_density	2.79
+
+# sequence-region 1 238
+SequenceID: k119_45
+  2232   -   <1    153     153 native TGGAGG 6 1
+# k119_45	total_logodd	15.5739	average_length	153	average_density	4.20
+
+# sequence-region 1 458
+SequenceID: k119_451
+  2233   +    73   >456     384 native TAAAGG 8 1
+# k119_451	total_logodd	20.2624	average_length	384	average_density	2.18
+
+# sequence-region 1 301
+SequenceID: k119_453
+  2234   +    16   >300     285 native TGGAAC 7 1
+# k119_453	total_logodd	16.7401	average_length	285	average_density	3.32
+
+# sequence-region 1 914
+SequenceID: k119_454
+  2235   +   <1   >912     912 native
+# k119_454	total_logodd	112.598	average_length	912	average_density	1.09
+
+# sequence-region 1 238
+SequenceID: k119_455
+  2236   +    24   >236     213 native GGGAGA 11 1
+# k119_455	total_logodd	26.1886	average_length	213	average_density	4.20
+
+# sequence-region 1 248
+SequenceID: k119_457
+  2237   -   <3    218     216 native AAGAGC 8 1
+# k119_457	total_logodd	9.4783	average_length	216	average_density	4.03
+
+# sequence-region 1 341
+SequenceID: k119_463
+  2238   -    236   >340     105 native
+# k119_463	total_logodd	3.43742	average_length	105	average_density	2.93
+
+# sequence-region 1 393
+SequenceID: k119_469
+  2239   +    265   >393     129 native AGGAGG 8 1
+# k119_469	total_logodd	16.7624	average_length	129	average_density	2.54
+
+# sequence-region 1 306
+SequenceID: k119_470
+  2240   -    55   >306     252 native
+# k119_470	total_logodd	18.5916	average_length	252	average_density	3.27
+
+# sequence-region 1 235
+SequenceID: k119_472
+  2241   +   <1   >234     234 native
+# k119_472	total_logodd	18.7626	average_length	234	average_density	4.26
+
+# sequence-region 1 7322
+SequenceID: k119_52
+  2242   +   <1    162     162 native
+  2243   +    620    1207     588 native AGGAGA 7 1
+  2244   +    1289    1531     243 native AAGCAA 8 1
+  2245   +    1637    2005     369 native CAGACA 8 1
+  2246   -    2123    2371     249 native AGGATG 7 1
+  2247   +    2689    3828    1140 native AGGAGA 8 1
+  2248   +    4118    5452    1335 atypical TGGAGA 7 1
+  2249   -    5531    6385     855 native TGAAGG 7 1
+  2250   -    7031   >7321     291 atypical
+# k119_52	total_logodd	360.42	average_length	581	average_density	1.23
+
+# sequence-region 1 238
+SequenceID: k119_53
+  2251   -    6   >236     231 native
+# k119_53	total_logodd	16.5075	average_length	231	average_density	4.20
+
+# sequence-region 1 244
+SequenceID: k119_6
+  2252   +   <1    174     174 native
+# k119_6	total_logodd	9.22651	average_length	174	average_density	4.10
+
+# sequence-region 1 485
+SequenceID: k119_62
+  2253   +   <3   >485     483 native
+# k119_62	total_logodd	34.333	average_length	483	average_density	2.06
+
+# sequence-region 1 651
+SequenceID: k119_64
+  2254   -   <2    223     222 native TTGAGG 1 1
+  2255   -    339   >650     312 native
+# k119_64	total_logodd	42.0368	average_length	267	average_density	3.07
+
+# sequence-region 1 863
+SequenceID: k119_66
+  2256   -   <2    427     426 native TTGGGG 6 1
+  2257   -    469    621     153 atypical AGGACG 8 1
+  2258   -    743   >862     120 atypical
+# k119_66	total_logodd	60.4355	average_length	233	average_density	3.48
+
+# sequence-region 1 473
+SequenceID: k119_71
+  2259   +    91    375     285 atypical ATGCGG 7 1
+# k119_71	total_logodd	9.80588	average_length	285	average_density	2.11
+
+# sequence-region 1 203
+SequenceID: k119_73
+  2260   +   <2    190     189 native
+# k119_73	total_logodd	16.6505	average_length	189	average_density	4.93
+
+# sequence-region 1 3320
+SequenceID: k119_74
+  2261   -    657    1508     852 atypical CGGAGG 8 1
+  2262   -    1641    2915    1275 native AGGAGT 8 1
+  2263   +    3011    3133     123 atypical CGGAGG 6 1
+  2264   -    3100   >3318     219 native
+# k119_74	total_logodd	182.676	average_length	617	average_density	1.20
+
+# sequence-region 1 6666
+SequenceID: k119_79
+  2265   +   <2    112     111 native
+  2266   -    266    2743    2478 native TTGAGG 8 1
+  2267   +    3944    4063     120 atypical AGGAGG 8 1
+  2268   +    4173    4442     270 atypical AAGAGG 6 1
+  2269   +    4463    5011     549 atypical AAAAGA 14 1
+  2270   +    5016    5912     897 atypical TGGAGG 8 1
+  2271   +    5902    6549     648 atypical TAGAGG 9 1
+# k119_79	total_logodd	366.844	average_length	725	average_density	1.05
+
+# sequence-region 1 414
+SequenceID: k119_80
+  2272   -    124   >414     291 native
+# k119_80	total_logodd	16.8597	average_length	291	average_density	2.42
+
+# sequence-region 1 1949
+SequenceID: k119_87
+  2273   -    377    628     252 atypical GGCAAG 11 1
+  2274   -    806    1060     255 atypical AGGAGA 8 1
+  2275   -    1063    1245     183 atypical TAGAGT 14 1
+  2276   -    1801   >1947     147 atypical
+# k119_87	total_logodd	25.2733	average_length	209	average_density	2.05
+
+# sequence-region 1 8815
+SequenceID: k119_88
+  2277   +    200    979     780 atypical TGGTGG 6 1
+  2278   +    1155    1364     210 native ATAATT 8 1
+  2279   +    1538    2932    1395 atypical TAGATG 9 1
+  2280   -    3248    3376     129 atypical AGGAGG 7 1
+  2281   +    3689    4648     960 atypical AAGGTG 7 1
+  2282   +    4662    5384     723 native AAGAGG 2 1
+  2283   +    5548    7503    1956 atypical TAGAGA 7 1
+  2284   +    7585    8268     684 atypical AACATA 7 1
+  2285   +    8431    8661     231 native ATAATT 8 1
+# k119_88	total_logodd	406.313	average_length	785	average_density	1.02
+
+# sequence-region 1 213
+SequenceID: k119_9
+  2286   +    27   >212     186 native TGGCGT 7 1
+# k119_9	total_logodd	21.6743	average_length	186	average_density	4.69
+
+# sequence-region 1 213
+SequenceID: k119_94
+  2287   -   <2   >211     210 native
+# k119_94	total_logodd	18.7518	average_length	210	average_density	4.69
+
+# sequence-region 1 456
+SequenceID: k119_95
+  2288   -    69   >455     387 native
+# k119_95	total_logodd	31.7423	average_length	387	average_density	2.19
+
+# sequence-region 1 224
+SequenceID: k119_98
+  2289   -   <3   >224     222 native
+# k119_98	total_logodd	22.9933	average_length	222	average_density	4.46
+
+# sequence-region 1 440
+SequenceID: k119_99
+  2290   -   <2    250     249 native AAATGG 5 1
+# k119_99	total_logodd	21.5926	average_length	249	average_density	2.27
+
+# output date end: Wed May 31 05:19:56 2023
+# Done with file: seq.fna
